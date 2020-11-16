@@ -23,6 +23,8 @@ URL: https://github.com/iDoka/awesome-canbus
 
 ## Hardware
 
+All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
+
 ### ARM
 
 * [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation
@@ -69,7 +71,10 @@ URL: https://github.com/iDoka/awesome-canbus
 
 ### CAN-over-IP
 
-* [Canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway
+* [cannelloni](https://github.com/mguentner/cannelloni) - SocketCAN over Ethernet tunnel
+* [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface
+* [pican](https://github.com/ovravna/pican) - TCP CAN reader
+* [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway
 
 
 
