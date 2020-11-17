@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./can_logo.png?raw=true[]" alt="CAN logo"/>
+<img src="can_logo.png?raw=true[]" alt="CAN logo"/>
 <!-- ![CAN logo](can_logo.png) -->
 </p>
 
