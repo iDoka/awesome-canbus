@@ -1,5 +1,6 @@
 <p align="center">
-![CAN logo](can_logo.png)
+<img src="./can_logo.png" alt="CAN logo"/>
+<!-- ![CAN logo](can_logo.png) -->
 </p>
 
 # 😎 A curated list of awesome tools, hardware and resources for CAN bus 
