@@ -1,3 +1,7 @@
+<p align="center">
+![CAN logo](can_logo.png)
+</p>
+
 # 😎 A curated list of awesome tools, hardware and resources for CAN bus 
 
 URL: https://github.com/iDoka/awesome-canbus
