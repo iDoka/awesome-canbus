@@ -42,6 +42,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANnon](https://github.com/mxcd/CANnon) - A versatile CAN bootloader for the STM32 and friends 
 * [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface
 * [SuperCAN](https://github.com/jgressmann/supercan) - An open source USB to CAN-FD protocol firmware for ATSAME51
+* [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard
+* [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool
+* [cantact-fw](https://github.com/linklayer/cantact-fw) - Firmware source files for the CANtact tool
+* [cantact-pro-hw](https://github.com/linklayer/cantact-pro-hw) - Hardware for the CANtact Pro 
+* [cantact-pro-fw](https://github.com/linklayer/cantact-pro-fw) - Firmware for the CANtact Pro 
 
 ### Arduino
 
@@ -80,7 +85,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [python-can](https://github.com/hardbyte/python-can) - the can package provides controller area network support for Python developers
 * [VCAN](https://github.com/TheMatjaz/VCAN) - a tiny virtual CAN and CAN-FD bus library in C
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD
-
+* [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN 
 
 ## Hacking and Reverse Engineering tools
 
@@ -89,11 +94,12 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Common Car Hacking Tools a scripts collection to help jump start car research and hacking
 * [**carhacking**](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection
 * [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) - Reverse engineering of Controller Area Networks
-
-
+* [parse_can_logs](https://github.com/v-ivanyshyn/parse_can_logs) - Parse CAN logs and visualize data streams on plot
+* [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks
 
 ## Utils
 
+* [Seeeed-USB-CAN-Linux](https://github.com/alexmohr/usb-can) - CLI Linux Support for noname Chinese USB-CAN adapter
 
 ### CAN-over-IP
 
@@ -109,13 +115,18 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [DDT4All](https://github.com/cedricp/ddt4all) - tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface
 * [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting
-
+* [CAN-Shark](https://github.com/quantyle/CAN-Shark) working with OBD PIDs from Arduino + MCP2515 shield
+* [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit 
 
 ### GUI Tools
 
 * [CANdevStudio by GENIVI](https://github.com/GENIVI/CANdevStudio)
 * [CANAL-View](https://github.com/rusoku/CANAL-View) - Qt GUI for TouCAN USB to CAN bus converter
 * [wxCAN-Sniffer](https://github.com/KruFFT/wxCAN-Sniffer) - CAN bus sniffer (PC side) with animation and chart
+* [CANLogger](https://github.com/olegel/CANLogger) - CAN bus logger and analyzer tool
+* [Seeeed-USB-CAN-Analyzer](https://github.com/SeeedDocument/USB-CAN-Analyzer/) - Closed source binary for noname Chinese USB-CAN adapter
+* [cantact-app](https://github.com/linklayer/cantact-app) Desktop application for CANtact hardware interface 
+
 
 #### Python
 
@@ -123,6 +134,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [canviewer](https://github.com/tsabelmann/canviewer) - GUI program that allows the inspection of incoming can-bus messages, either from recorder can-bus data or live data
 
 
+
+### J1939 tools
+
+* [J1939-CANBUS](https://github.com/taha842/J1939-CANBUS) - Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO
+* [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries
 
 
 ### Examples
@@ -132,10 +148,37 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [socketcan-demo](https://github.com/zhanglongqi/socketcan-demo) - set of example programs which highlight how to make use of SocketCAN on Linux
 
 
+
+
+## CAN Databases
+
+
+### Formats
+#### DBC
+* [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (*.xls)
+
+
+#### KCD
+* [KCD](https://github.com/julietkilo/kcd) - An open format to describe communication relationships in CAN
+
+### Converters and Parsers
+* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+* [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats 
+
+
+
+* [can4python](https://github.com/caran/can4python) - 
+* [Kayak](https://github.com/dschanoeh/Kayak) - 
+http://kayak.2codeornot2code.org/ 
+* [openCanSuite](https://github.com/sebi2k1/openCanSuite) - 
+* [Cantools](https://github.com/eerimoq/cantools) - 
+* [dbcppp](https://github.com/xR3b0rn/dbcppp) - 
+
+
+
 ## Tags
 
-#awesome #awesome-list #can #can-bus #canbus #canfd #can-fd #logger #sniffer #slcan #socketcan #car-hacking #bus-monitoring #lawicel #elm327 #obd2 #canutils #automotive #embedded #arduino #rpi #raspberry-pi #sae #uds #j1962 #j1939 #j1979 #j2534 #lin #lin-bus #obd-ii #slcan-protocol #usbtin #usb2can #iso11898 #iso11565 #iso11765 #dbc #odb #electric-vehicles #vehicular-networks 
-
+#awesome #awesome-list #can #can-bus #canbus #canfd #can-fd #logger #sniffer #slcan #socketcan #car-hacking #bus-monitoring #lawicel #elm327 #obd2 #canutils #automotive #embedded #arduino #rpi #raspberry-pi #sae #uds #j1962 #j1939 #j1979 #j2534 #lin #lin-bus #obd-ii #slcan-protocol #usbtin #usb2can #iso11898 #iso11565 #iso11765 iso14229 #dbc #odb #electric-vehicles #vehicular-networks #python #automotive-security 
 
 
 
