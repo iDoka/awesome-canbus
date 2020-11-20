@@ -1,4 +1,5 @@
 * text=auto eol=lf
+*.png binary
 *.pdf binary
 README.md merge=union
 
