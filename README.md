@@ -141,6 +141,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [SavvyCAN](http://www.savvycan.com/) - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [Kayak](https://github.com/dschanoeh/Kayak) - Java-based CAN traffic GUI analysis tool
 * [openCanSuite](https://github.com/sebi2k1/openCanSuite) - Set of tools for analyzing, simulating and visualizing a CAN system
+* [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - scanning and visualizing tool for automotive systems
+
 
 #### Python
 
