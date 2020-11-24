@@ -49,7 +49,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks
 * [**CANalyzat0r**](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols 
 * [**CANToolz**](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework 
-
+* [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer
 
 
 ## Utils
@@ -59,7 +59,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [**cantools**](https://github.com/mwkpe/cantools) - collection of CLI tools for the CAN bus network
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) - an Open Source Software tool to simulate, analyze and test data bus systems such as CAN
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language
-
+* [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org)
 
 ### GUI Tools
 
@@ -73,6 +73,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Kayak](https://github.com/dschanoeh/Kayak) - Java-based CAN traffic GUI analysis tool
 * [openCanSuite](https://github.com/sebi2k1/openCanSuite) - Set of tools for analyzing, simulating and visualizing a CAN system
 * [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - scanning and visualizing tool for automotive systems
+* [ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator for SocketCAN by OpenGarages
 
 
 #### Python Tools
@@ -85,6 +86,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [can4python](https://github.com/caran/can4python) - A package for handling CAN bus signals on Linux SocketCAN. Useful for showing the contents of KCD files (also those converted from DBC files)
 * [Python-Vector-CANoe](https://github.com/hmq2018/Python-Vector-CANoe) -  Control Vector CANoe API by Python
 * [CanCat](https://github.com/atlas0fd00m/CanCat) - Swiss army knife of CAN often used in cars and building automation, etc
+* [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance
 
 ### CAN-over-IP
 
@@ -101,7 +103,8 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) working with OBD PIDs from Arduino + MCP2515 shield
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit 
-
+* [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars
+* [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database
 
 ### J1939 Tools
 
@@ -195,13 +198,14 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 ### Arduino
 
 * [arduino-canhacker](https://github.com/autowp/arduino-canhacker) - CanHacker (lawicel) CAN adapter on Arduino + MCP2515
+* [open-usb-can from Fabio Baltieri](https://github.com/fabiobaltieri/open-usb-can) - CAN-to-USB dongle based on ATMega32U and MCP2515
 * [Arduino-CAN-bus-SD-logger](https://github.com/DieselDuz42/Arduino-CAN-bus-SD-logger) - Arduino script to log CAN bus information to SD card. Mainly focused on J1939
 * [Arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) - Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB
 * [Arduino-psa-comfort-can-adapter](https://github.com/ludwig-v/arduino-psa-comfort-can-adapter) - Arduino sketch to operate new PSA (Peugeot, Citroen, DS, Opel) comfort devices (CAN2010) on old BSI CAN-BUS (CAN2004)
 * [epasuino](https://github.com/srenner/epasuino) - Arduino based Speed sensitive electric power steering for automobiles  Speed sensitive electric power steering for automobiles
 * [carfuino](https://github.com/srenner/carfuino) - Arduino based Automotive performance computer with Megasquirt integration 
 * [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more)
-
+* [CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple-Hardware) - The car hacking platform based on AVR and MCP2515 works with [this firmware](https://github.com/CANBus-Triple/CANBus-Triple)
 
 ### ESP
 
