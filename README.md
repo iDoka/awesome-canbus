@@ -196,7 +196,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard
 * [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) as firmware source
 * [cantact-pro-hw](https://github.com/linklayer/cantact-pro-hw) - Hardware for the CANtact Pro, use [cantact-pro-fw](https://github.com/linklayer/cantact-pro-fw) as firmware
-
+* [FlexCAN](https://github.com/collin80/FlexCAN_Library) - Arduino library for CAN on Teensy 3.1, 3.2, 3.5, and 3.6
 
 ### Arduino
 
