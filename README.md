@@ -106,12 +106,14 @@ URL: https://github.com/iDoka/awesome-canbus
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database
 
+
 ### J1939 Tools
 
 * [J1939-CANBUS](https://github.com/taha842/J1939-CANBUS) - Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO
 * [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries
 * [python-j1939](https://github.com/milhead2/python-j1939) - SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939
+* [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
 
 
 ### Other Utils
@@ -119,7 +121,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Seeeed-USB-CAN-Linux](https://github.com/alexmohr/usb-can) - CLI Linux Support for noname Chinese USB-CAN adapter
 * [opendlv-device-can-replay](https://github.com/chalmers-revere/opendlv-device-can-replay) - OpenDLV Microservice to replay captured CAN frames to a CAN interface
 * [c0f](https://github.com/zombieCraig/c0f/) - CAN bus fingerprinting tool is designed to analyze CAN bus traffic and fingerprint the Maker and Model
-
+* [canqv](https://github.com/kurt-vd/canqv) - Quick CAN frame inspection using CAN_RAW
 
 ### Libraries
 
@@ -128,6 +130,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [VCAN](https://github.com/TheMatjaz/VCAN) - a tiny virtual CAN and CAN-FD bus library in C
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN 
+* [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO 15765-2) Support Library in C
 
 
 ### Examples
