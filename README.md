@@ -5,6 +5,8 @@
 
 # 😎 A curated list of awesome tools, hardware and resources for CAN bus 
 
+This list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
+
 URL: https://github.com/iDoka/awesome-canbus
 
 ## Contents
