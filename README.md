@@ -3,7 +3,7 @@
 <!-- ![CAN logo](can_logo.png) -->
 </p>
 
-# 😎 A curated list of awesome tools, hardware and resources for CAN bus
+# :tractor: A curated list of awesome tools, hardware and resources for CAN bus
 
 This list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
@@ -129,6 +129,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [canqv](https://github.com/kurt-vd/canqv) - Quick CAN frame inspection using CAN_RAW
 * [Candle.NET](https://github.com/elliotwoods/Candle.NET) - .NET wrapper for the Candle API for candlelight CAN bus gateways/analysers (e.g. CANable, CANtact, etc)
 
+
 ### Libraries
 
 * [libwecan](https://github.com/nisennenmondai/libwecan) - header only lib to encode and decode CAN signal
@@ -165,7 +166,7 @@ URL: https://github.com/iDoka/awesome-canbus
 
 * [**cantools** by Erik Moqvist](https://github.com/eerimoq/cantools) - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing
 * [cantools by Andreas Heitmann](https://github.com/aheit/cantools) - a set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files
-* [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (*.xls)
+* [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (xls)
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats (supports KCD r/w and DBC read)
 * [can4python](https://github.com/caran/can4python) - A useful package for showing the contents of KCD files (also those converted from DBC files)
@@ -191,7 +192,6 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 ### ARM
 
 * [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation
-* [CANsniffer on STM32F042](https://github.com/majbthrd/CANsniffer) - CANbus sniffer
 * [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - slcan firmware for the CVRA CAN to USB dongle
 * [pcan_cantact](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards
 * [pcan_pro_x](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards
@@ -200,10 +200,20 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface
 * [SuperCAN](https://github.com/jgressmann/supercan) - An open source USB to CAN-FD protocol firmware for ATSAME51
 * [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard
-* [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) as firmware source
+
 * [cantact-pro-hw](https://github.com/linklayer/cantact-pro-hw) - Hardware for the CANtact Pro, use [cantact-pro-fw](https://github.com/linklayer/cantact-pro-fw) as firmware
 * [FlexCAN](https://github.com/collin80/FlexCAN_Library) - Arduino library for CAN on Teensy 3.1, 3.2, 3.5, and 3.6
 * [BudgetCANv2](https://github.com/ryedwards/BudgetCANv2) - FW for use on STM32G4 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on [BudgetCANv2-HW](https://github.com/ryedwards/BudgetCANv2-HW)
+
+#### STM32F042x based HW
+* [candleLight_fw](https://github.com/candle-usb/candleLight_fw) - compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN
+* [CANsniffer on STM32F042](https://github.com/majbthrd/CANsniffer) - CANbus sniffer less complicated than existing commercial products
+* [candleLight](https://github.com/HubertD/candleLight) - KiCAD project of usb-can adapter based on STM32F0
+* [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) as firmware source
+* [cantact](https://github.com/linklayer/cantact/) - Drivers and Command Line Interface for CANtact tools
+* [USB2CAN](https://github.com/roboterclubaachen/usb2can) - Compact and isolated USB-to-CAN Adapter
+* [CANAlyze](https://kkuchera.github.io/canalyze/) - an open source, native CAN interface for Linux that can be built entirely using open source tools
+
 
 ### Arduino
 
