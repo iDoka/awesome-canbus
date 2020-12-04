@@ -227,6 +227,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more)
 * [CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple-Hardware) - The car hacking platform based on AVR and MCP2515 works with [this firmware](https://github.com/CANBus-Triple/CANBus-Triple)
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
+* [open-source-can-bridge](https://bitbucket.org/emile_nijssen/open-source-can-bridge) - gateway with several CAN interfaces based on Xmega
 
 ### ESP
 
@@ -267,7 +268,53 @@ Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-canb
 
 ## Tags
 
-#awesome #awesome-list #can #can-bus #canbus #canfd #can-fd #logger #sniffer #slcan #socketcan #car-hacking #bus-monitoring #lawicel #elm327 #obd2 #canutils #automotive #embedded #arduino #rpi #raspberry-pi #sae #uds #j1962 #j1939 #j1979 #j2534 #lin #lin-bus #local-interconnect-network #flexray #obd-ii #slcan-protocol #usbtin #usb2can #iso11898 #iso11565 #iso11765 iso14229 #dbc #odb #ldf #electric-vehicles #vehicular-networks #python #automotive-security
+#awesome
+#awesome-list
+#can
+#can-bus
+#canbus
+#canfd
+#can-fd
+#logger
+#sniffer
+#slcan
+#socketcan
+#car-hacking
+#bus-monitoring
+#lawicel
+#elm327
+#obd2
+#canutils
+#automotive
+#embedded
+#arduino
+#rpi
+#raspberry-pi
+#sae
+#uds
+#j1962
+#j1939
+#j1979
+#j2534
+#lin
+#lin-bus
+#local-interconnect-network
+#flexray
+#obd-ii
+#slcan-protocol
+#usbtin
+#usb2can
+#iso11898
+#iso11565
+#iso11765
+#iso14229
+#dbc
+#odb
+#ldf
+#electric-vehicles
+#vehicular-networks
+#python
+#automotive-security
 
 
 
