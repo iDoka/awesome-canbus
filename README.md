@@ -23,14 +23,12 @@ URL: https://github.com/iDoka/awesome-canbus
   * [Other Utils](#other-utils)
   * [Libraries](#libraries)
   * [Examples](#examples)
-
 * [CAN Databases](#can-databases)
   * [Formats](#formats)
     * [DBC](#dbc)
     * [KCD](#kcd)
   * [Converters and Parsers](#converters-and-parsers)
   * [DBC only](#dbc-only)
-
 * [Hardware](#hardware)
   * [ARM](#arm)
   * [Arduino](#arduino)
@@ -92,6 +90,8 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Python-Vector-CANoe](https://github.com/hmq2018/Python-Vector-CANoe) -  Control Vector CANoe API by Python
 * [CanCat](https://github.com/atlas0fd00m/CanCat) - Swiss army knife of CAN often used in cars and building automation, etc
 * [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance
+* [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter
+
 
 ### CAN-over-IP
 
@@ -147,6 +147,8 @@ URL: https://github.com/iDoka/awesome-canbus
 
 
 
+
+
 ## CAN Databases
 ### Formats
 #### DBC
@@ -159,7 +161,7 @@ URL: https://github.com/iDoka/awesome-canbus
 
 #### KCD
 
-* [KCD](https://github.com/julietkilo/kcd) - An open format to describe communication relationships in CAN. similar to DBC format but written in XML.
+* [KCD](https://github.com/julietkilo/kcd) - An open format to describe communication relationships in CAN. similar to DBC format but written in XML
 
 
 ### Converters and Parsers
@@ -200,12 +202,17 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface
 * [SuperCAN](https://github.com/jgressmann/supercan) - An open source USB to CAN-FD protocol firmware for ATSAME51
 * [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard
-
 * [cantact-pro-hw](https://github.com/linklayer/cantact-pro-hw) - Hardware for the CANtact Pro, use [cantact-pro-fw](https://github.com/linklayer/cantact-pro-fw) as firmware
 * [FlexCAN](https://github.com/collin80/FlexCAN_Library) - Arduino library for CAN on Teensy 3.1, 3.2, 3.5, and 3.6
 * [BudgetCANv2](https://github.com/ryedwards/BudgetCANv2) - FW for use on STM32G4 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on [BudgetCANv2-HW](https://github.com/ryedwards/BudgetCANv2-HW)
+* [Arduino-STM32-CAN](https://github.com/nopnop2002/Arduino-STM32-CAN) - Can communication example for Arduino Core STM32
+* [eXoCAN](https://github.com/exothink/eXoCAN) - CAN Library for the STM32F103 aka Blue Pill
+* [CAN-BUS-Man-In-The-Middle](https://github.com/damienmaguire/CAN-BUS-Man-In-The-Middle) - Dual CAN MitM-device based on STM32F105
+* [CAN-Bus-Arduino_Core_STM32](https://github.com/seeers/CAN-Bus-Arduino_Core_STM32/blob/master/CanLowlevel.ino) - Lowlevel CanBUS Example for Arduino Core STM32
+* [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter)
 
 #### STM32F042x based HW
+
 * [candleLight_fw](https://github.com/candle-usb/candleLight_fw) - compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN
 * [CANsniffer on STM32F042](https://github.com/majbthrd/CANsniffer) - CANbus sniffer less complicated than existing commercial products
 * [candleLight](https://github.com/HubertD/candleLight) - KiCAD project of usb-can adapter based on STM32F0
@@ -250,7 +257,6 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 * [Michrochip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Firmware](https://github.com/rkollataj/mcba_firmware) - Michrochip CAN BUS Analyzer firmware
 * [Michrochip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Driver](https://github.com/rkollataj/mcba_usb) - Linux kernel driver for Microchip CAN BUS Analyzer Tool
-
 * [BB-to-STM32](https://github.com/mvollrath/canbus_bbone_stm32) - LED sync between BeagleBone Black and STM32F4 Discovery Board
 
 
