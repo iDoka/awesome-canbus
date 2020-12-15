@@ -210,6 +210,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN-BUS-Man-In-The-Middle](https://github.com/damienmaguire/CAN-BUS-Man-In-The-Middle) - Dual CAN MitM-device based on STM32F105
 * [CAN-Bus-Arduino_Core_STM32](https://github.com/seeers/CAN-Bus-Arduino_Core_STM32/blob/master/CanLowlevel.ino) - Lowlevel CanBUS Example for Arduino Core STM32
 * [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter)
+* [STM32-CAN-Busadapter](https://github.com/IvanDev2018/STM32-CAN-Busadapter) - CAN adapter on MCU stm32f303cb
+* [Ethernet-CAN converter](https://github.com/MikhailBerezhanov/cncu-01) - based on STM32F407
+* [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol
+* [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48
+
 
 #### STM32F042x based HW
 
@@ -220,6 +225,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [cantact](https://github.com/linklayer/cantact/) - Drivers and Command Line Interface for CANtact tools
 * [USB2CAN](https://github.com/roboterclubaachen/usb2can) - Compact and isolated USB-to-CAN Adapter
 * [CANAlyze](https://kkuchera.github.io/canalyze/) - an open source, native CAN interface for Linux that can be built entirely using open source tools
+* [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042
 
 
 ### Arduino
