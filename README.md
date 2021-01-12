@@ -40,9 +40,9 @@ URL: https://github.com/iDoka/awesome-canbus
 
 ## Hacking and Reverse Engineering tools
 
+* [**CarHackingTools**](https://github.com/jgamblin/CarHackingTools) - Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking
 * [**Caring Caribou**](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus
 * [**CAN_Reverse_Engineering**](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol
-* [CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Common Car Hacking Tools a scripts collection to help jump start car research and hacking
 * [**carhacking**](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection
 * [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) - Reverse engineering of Controller Area Networks
 * [parse_can_logs](https://github.com/v-ivanyshyn/parse_can_logs) - Parse CAN logs and visualize data streams on plot
@@ -91,6 +91,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CanCat](https://github.com/atlas0fd00m/CanCat) - Swiss army knife of CAN often used in cars and building automation, etc
 * [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter
+* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces
 
 
 ### CAN-over-IP
@@ -99,6 +100,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway
+* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces
 
 
 ### OBD-II tools
@@ -128,6 +130,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [c0f](https://github.com/zombieCraig/c0f/) - CAN bus fingerprinting tool is designed to analyze CAN bus traffic and fingerprint the Maker and Model
 * [canqv](https://github.com/kurt-vd/canqv) - Quick CAN frame inspection using CAN_RAW
 * [Candle.NET](https://github.com/elliotwoods/Candle.NET) - .NET wrapper for the Candle API for candlelight CAN bus gateways/analysers (e.g. CANable, CANtact, etc)
+* [canSerializer](https://github.com/zainahm3d/canSerializer) - lib for serializing and deserializing CAN frames for transmission over a non CAN transport layer (Can be used to transport CAN frames over UART, SPI, etc)
 
 
 ### Libraries
