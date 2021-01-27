@@ -51,6 +51,8 @@ URL: https://github.com/iDoka/awesome-canbus
 * [**CANToolz**](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework
 * [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
+* [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer
+
 
 ## Utils
 ### Common
@@ -217,6 +219,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Ethernet-CAN converter](https://github.com/MikhailBerezhanov/cncu-01) - based on STM32F407
 * [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48
+* [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions
 
 
 #### STM32F042x based HW
@@ -227,7 +230,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) as firmware source
 * [cantact](https://github.com/linklayer/cantact/) - Drivers and Command Line Interface for CANtact tools
 * [USB2CAN](https://github.com/roboterclubaachen/usb2can) - Compact and isolated USB-to-CAN Adapter
-* [CANAlyze](https://kkuchera.github.io/canalyze/) - an open source, native CAN interface for Linux that can be built entirely using open source tools
+* [CANAlyze](https://kkuchera.github.io/canalyze/) - an open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) as firmware source
 * [Cantact FW by x893](https://github.com/x893/cantact-fw)
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042
 
@@ -246,6 +249,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
 * [open-source-can-bridge](https://bitbucket.org/emile_nijssen/open-source-can-bridge) - gateway with several CAN interfaces based on Xmega
 * [arduino-mcp2515](https://github.com/autowp/arduino-mcp2515) - Arduino MCP2515 CAN interface library
+* [slcanuino](https://github.com/kahiroka/slcanuino) - USB-CAN (SocketCAN) sketch for Arduino CAN-BUS shield
 
 ### ESP
 
