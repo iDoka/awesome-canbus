@@ -78,6 +78,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - scanning and visualizing tool for automotive systems
 * [ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator for SocketCAN by OpenGarages
 * [CANgaroo](https://github.com/HubertD/cangaroo) - Qt-based CAN bus analyzer software
+* [CAN-X](https://github.com/karlyamashita/CAN-X) - C# CAN bus analyzer software
 
 
 
