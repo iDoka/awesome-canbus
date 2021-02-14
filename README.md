@@ -52,6 +52,9 @@ URL: https://github.com/iDoka/awesome-canbus
 * [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer
+* [CANalyse](https://github.com/KartheekLade/CANalyse) - a vehicle network analysis and attack tool
+* [canhack](https://github.com/kentindell/canhack) - A low-level CAN protocol hacking library
+
 
 
 ## Utils
