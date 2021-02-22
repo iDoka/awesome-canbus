@@ -191,7 +191,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CANdb from GENIVI](https://github.com/GENIVI/CANdb) - Library for parsing DBC - CAN bus database description formats
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files
 
-
+* [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - modified version of the dbc file parser of eerimoq
 
 
 
@@ -204,8 +204,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 * [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation
 * [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - slcan firmware for the CVRA CAN to USB dongle
-* [pcan_cantact](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards
-* [pcan_pro_x](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards
+* [**pcan_cantact**](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards
+* [**pcan_pro_x**](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards
 * [hadoucan-fw on STM32H750](https://github.com/suburbanembedded/hadoucan-fw) - Firmware for SM-1301 USB-CAN FD adapter based on
 * [CANnon](https://github.com/mxcd/CANnon) - A versatile CAN bootloader for the STM32 and friends
 * [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface
