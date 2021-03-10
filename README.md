@@ -82,7 +82,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator for SocketCAN by OpenGarages
 * [CANgaroo](https://github.com/HubertD/cangaroo) - Qt-based CAN bus analyzer software
 * [CAN-X](https://github.com/karlyamashita/CAN-X) - C# CAN bus analyzer software
-
+* [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - universal CAN bus monitoring program
 
 
 #### Python Tools
@@ -181,6 +181,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats (supports KCD r/w and DBC read)
 * [can4python](https://github.com/caran/can4python) - A useful package for showing the contents of KCD files (also those converted from DBC files)
+* [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library
 
 
 #### DBC only
@@ -190,7 +191,6 @@ URL: https://github.com/iDoka/awesome-canbus
 * [can_decoder](https://github.com/CSS-Electronics/can_decoder) - API module for decoding raw CAN bus data to physical values using a DBC CAN database
 * [CANdb from GENIVI](https://github.com/GENIVI/CANdb) - Library for parsing DBC - CAN bus database description formats
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files
-
 * [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - modified version of the dbc file parser of eerimoq
 
 
