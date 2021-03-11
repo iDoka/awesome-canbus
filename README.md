@@ -118,6 +118,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database
+* [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles
 
 
 ### J1939 Tools
