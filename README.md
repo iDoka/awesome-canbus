@@ -53,8 +53,9 @@ URL: https://github.com/iDoka/awesome-canbus
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer
 * [CANalyse](https://github.com/KartheekLade/CANalyse) - a vehicle network analysis and attack tool
-* [canhack](https://github.com/kentindell/canhack) - A low-level CAN protocol hacking library
-
+* [canhack](https://github.com/kentindell/canhack) - a low-level CAN protocol hacking library
+* [canDrive](https://github.com/adamtheone/canDrive) - tools for hacking your car
+* [CANghost](https://github.com/souravbaghz/CANghost) - automated Script For Hacking Into CAN Bus
 
 
 ## Utils
