@@ -194,6 +194,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CANdb from GENIVI](https://github.com/GENIVI/CANdb) - Library for parsing DBC - CAN bus database description formats
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files
 * [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - modified version of the dbc file parser of eerimoq
+* [dbc_reader](https://github.com/autti/dbc_reader) - Virtual can bus reader from dbc file (python)
 
 
 
@@ -226,6 +227,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48
 * [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions
+* [CANCAN](https://github.com/DDolphin/CANCAN) - CAN recorder based on STM32F407ZGTx
+* [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103
 
 
 #### STM32F042x based HW
