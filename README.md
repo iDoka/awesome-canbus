@@ -229,6 +229,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions
 * [CANCAN](https://github.com/DDolphin/CANCAN) - CAN recorder based on STM32F407ZGTx
 * [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103
+* [stm32-slcan](https://github.com/walmis/stm32-slcan) - slCAN compatible firmware for BluePill based on STM32f103C8T6
 
 
 #### STM32F042x based HW
