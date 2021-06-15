@@ -131,6 +131,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
 
 
+
 ### Other Utils
 
 * [Seeeed-USB-CAN-Linux](https://github.com/alexmohr/usb-can) - CLI Linux Support for noname Chinese USB-CAN adapter
@@ -184,6 +185,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats (supports KCD r/w and DBC read)
 * [can4python](https://github.com/caran/can4python) - A useful package for showing the contents of KCD files (also those converted from DBC files)
 * [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library
+* [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - util for convert dbc (canbus) to cpp(cplusplus) function
 
 
 #### DBC only
@@ -230,6 +232,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANCAN](https://github.com/DDolphin/CANCAN) - CAN recorder based on STM32F407ZGTx
 * [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103
 * [stm32-slcan](https://github.com/walmis/stm32-slcan) - slCAN compatible firmware for BluePill based on STM32f103C8T6
+* [**STM32duino_CAN_Library**](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino
 
 
 #### STM32F042x based HW
@@ -261,6 +264,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [arduino-mcp2515](https://github.com/autowp/arduino-mcp2515) - Arduino MCP2515 CAN interface library
 * [slcanuino](https://github.com/kahiroka/slcanuino) - USB-CAN (SocketCAN) sketch for Arduino CAN-BUS shield
 
+
 ### ESP
 
 * [ESP-IDF-CANBus-Monitor](https://github.com/nopnop2002/esp-idf-CANBus-Monitor) - Monitor Canbus traffic ESP32
@@ -270,6 +274,10 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [ESP32-Arduino-CAN](https://github.com/miwagner/ESP32-Arduino-CAN) - Arduino CAN-Bus library for ESP32
 * [ESP32RET](https://github.com/collin80/ESP32RET) - CAN Reverse engineering tool for ESP32 based boards
 * [ESP32_CAN_Interface](https://github.com/PhilippFux/ESP32_CAN_Interface) - Wireless CAN-Interface for the ESP32 which uses the cannelloni protocol to send CAN-Frames via UDP over an Wi-Fi tunnel
+* [esp32_canbus_gateway](https://github.com/vigoballak/esp32_canbus_gateway) - can module on esp32 + tja1050 coded on micropython
+* [esp32-cantroller](https://github.com/neg2led/esp32-cantroller) - ESP32-S2-WROVER/WROOM based CANBUS controller thingy
+* [esp32-canbus-logger](https://github.com/scipioni/esp32-canbus-logger) - CAN bus logger on uSD-card based on ESP32
+
 
 ### SBC
 **SBC** - Single Board Computers
