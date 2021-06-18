@@ -129,7 +129,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [python-j1939](https://github.com/milhead2/python-j1939) - SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
-
+* [libj1939](https://github.com/paoloteti/libj1939) - library to work with J1939 Frames (intended to be used in microcontrollers)
 
 
 ### Other Utils
@@ -233,6 +233,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103
 * [stm32-slcan](https://github.com/walmis/stm32-slcan) - slCAN compatible firmware for BluePill based on STM32f103C8T6
 * [**STM32duino_CAN_Library**](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino
+* [CANBUS_UART](https://github.com/Oktay97/Canbus_Uart) - CANBUS to UART for STM32F1 (BluePill and Nucleo boards)
 
 
 #### STM32F042x based HW
@@ -263,6 +264,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [open-source-can-bridge](https://bitbucket.org/emile_nijssen/open-source-can-bridge) - gateway with several CAN interfaces based on Xmega
 * [arduino-mcp2515](https://github.com/autowp/arduino-mcp2515) - Arduino MCP2515 CAN interface library
 * [slcanuino](https://github.com/kahiroka/slcanuino) - USB-CAN (SocketCAN) sketch for Arduino CAN-BUS shield
+* [CITM02](https://github.com/BXProject/CITM02) - CAN In The Middle (CITM) the Dual channel CANBUS adapter built around Arduino
 
 
 ### ESP
@@ -277,6 +279,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [esp32_canbus_gateway](https://github.com/vigoballak/esp32_canbus_gateway) - can module on esp32 + tja1050 coded on micropython
 * [esp32-cantroller](https://github.com/neg2led/esp32-cantroller) - ESP32-S2-WROVER/WROOM based CANBUS controller thingy
 * [esp32-canbus-logger](https://github.com/scipioni/esp32-canbus-logger) - CAN bus logger on uSD-card based on ESP32
+* [**ESP32_CANViewer**](https://github.com/Cellgalvano/ESP32_CANViewer) -  ESP32 based CAN interface for your webbrowser
 
 
 ### SBC
