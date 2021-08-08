@@ -20,6 +20,7 @@ URL: https://github.com/iDoka/awesome-canbus
   * [CAN-over-IP](#can-over-ip)
   * [OBD-II tools](#obd-ii-tools)
   * [J1939 Tools](#j1939-tools)
+  * [J2534 Tools](#j2534-tools)
   * [Other Utils](#other-utils)
   * [Libraries](#libraries)
   * [Examples](#examples)
@@ -131,6 +132,13 @@ URL: https://github.com/iDoka/awesome-canbus
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
 * [libj1939](https://github.com/paoloteti/libj1939) - library to work with J1939 Frames (intended to be used in microcontrollers)
+
+
+
+### J2534 Tools
+
+* [JCanalog](https://github.com/ZacharyWalsh57/JCanalog) - Easy To Use J2534 Vehicle Logger
+
 
 
 ### Other Utils
