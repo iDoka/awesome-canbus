@@ -17,6 +17,8 @@ URL: https://github.com/iDoka/awesome-canbus
   * [Common](#common)
   * [GUI Tools](#gui-tools)
   * [Python Tools](#python-tools)
+  * [UDS](#uds)
+  * [ISO-TP](#iso-tp)
   * [CAN-over-IP](#can-over-ip)
   * [OBD-II tools](#obd-ii-tools)
   * [J1939 Tools](#j1939-tools)
@@ -86,6 +88,10 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CAN-X](https://github.com/karlyamashita/CAN-X) - C# CAN bus analyzer software
 * [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - universal CAN bus monitoring program
 * [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) - development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets
+* [SLSS-CANAnalyser](https://github.com/SeppHansen/SLSS-CANAnalyser) - SLSS CANAnalyser is Windows CAN-Bus-Analysis-Software to show, record and evaluate CAN-Bus signals
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - [closed source] powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on
+* [CAN++](https://github.com/TDahlmann/canpp) - Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files (`*.dbc` or `*.kcd`) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms)
+* [CANcool](https://github.com/MHS-Elektronik/CANcool) - CAN bus Analyser and Simulation Software with CAN-FD support
 
 
 #### Python Tools
@@ -94,13 +100,23 @@ URL: https://github.com/iDoka/awesome-canbus
 * [**python-can**](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers
 * [strym](https://github.com/jmscslgroup/strym) - real time CAN data logging and visualization tool to work with USB-CAN Interface
 * [canviewer](https://github.com/tsabelmann/canviewer) - GUI program that allows the inspection of incoming can-bus messages, either from recorder can-bus data or live data
-* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard
 * [can4python](https://github.com/caran/can4python) - A package for handling CAN bus signals on Linux SocketCAN. Useful for showing the contents of KCD files (also those converted from DBC files)
 * [Python-Vector-CANoe](https://github.com/hmq2018/Python-Vector-CANoe) -  Control Vector CANoe API by Python
 * [CanCat](https://github.com/atlas0fd00m/CanCat) - Swiss army knife of CAN often used in cars and building automation, etc
 * [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter
 * [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces
+
+
+### UDS
+
+* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard
+* [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II C Library
+
+
+### ISO-TP
+
+* [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C
 
 
 ### CAN-over-IP
@@ -138,7 +154,7 @@ URL: https://github.com/iDoka/awesome-canbus
 ### J2534 Tools
 
 * [JCanalog](https://github.com/ZacharyWalsh57/JCanalog) - Easy To Use J2534 Vehicle Logger
-
+* [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP
 
 
 ### Other Utils
