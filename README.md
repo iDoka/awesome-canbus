@@ -148,7 +148,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
 * [libj1939](https://github.com/paoloteti/libj1939) - library to work with J1939 Frames (intended to be used in microcontrollers)
-
+* [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - python libs and scripts for pretty-printing J1939 logs
 
 
 ### J2534 Tools
