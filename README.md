@@ -106,7 +106,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter
 * [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces
-
+* [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
 ### UDS
 
