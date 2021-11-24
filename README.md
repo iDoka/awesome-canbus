@@ -175,6 +175,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN
 * [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO 15765-2) Support Library in C
+* [Qt CAN Bus](https://doc.qt.io/qt-5/qtcanbus-backends.html) - A multiplatform C++ plugin based library with support for various CAN Devices (SocketCAN, Sys Tec, PEAK, Virtual)
 
 
 ### Examples
