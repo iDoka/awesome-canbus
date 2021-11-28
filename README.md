@@ -7,7 +7,9 @@
 
 This list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
-URL: https://github.com/iDoka/awesome-canbus
+The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
+
+permanent URL: https://github.com/iDoka/awesome-canbus
 
 ## Contents
 
@@ -332,7 +334,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ## etc
 
-Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-canbus
+Follow this permanent root-repo for lastest updates: https://github.com/iDoka/awesome-canbus
 
 
 ## Tags
