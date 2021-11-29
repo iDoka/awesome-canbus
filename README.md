@@ -81,7 +81,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CANLogger](https://github.com/olegel/CANLogger) - CAN bus logger and analyzer tool
 * [Seeeed-USB-CAN-Analyzer](https://github.com/SeeedDocument/USB-CAN-Analyzer/) - Closed source binary for noname Chinese USB-CAN adapter
 * [CANtact-app](https://github.com/linklayer/cantact-app) Desktop application for CANtact hardware interface
-* [SavvyCAN](http://www.savvycan.com/) - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
+* [SavvyCAN](https://github.com/collin80/SavvyCAN) - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [openCanSuite](https://github.com/sebi2k1/openCanSuite) - Set of tools for analyzing, simulating and visualizing a CAN system
 * [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - scanning and visualizing tool for automotive systems
 * [ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator for SocketCAN by OpenGarages
