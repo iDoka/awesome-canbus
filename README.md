@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://github.com/iDoka/awesome-canbus/raw/master/can_logo.png" alt="CAN logo"/>
-<!-- ![CAN logo](can_logo.png) -->
 </p>
 
 # :tractor: A curated list of awesome tools, hardware and resources for CAN bus
@@ -60,6 +59,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CANalyse](https://github.com/KartheekLade/CANalyse) - a vehicle network analysis and attack tool
 * [canhack](https://github.com/kentindell/canhack) - a low-level CAN protocol hacking library
 * [canDrive](https://github.com/adamtheone/canDrive) - tools for hacking your car
+* [Carpunk](https://github.com/souravbaghz/Carpunk) - CAN injection toolkit and successor of CANghost
 * [CANghost](https://github.com/souravbaghz/CANghost) - automated Script For Hacking Into CAN Bus
 
 
