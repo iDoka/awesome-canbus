@@ -119,6 +119,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ### ISO-TP
 
 * [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C
+* [python-can-IsoTP](https://github.com/pylessard/python-can-isotp) - Python implementation of the ISO-TP (ISO15765-2) CAN protocol
 
 
 ### CAN-over-IP
