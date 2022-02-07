@@ -53,8 +53,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks
 * [**CANalyzat0r**](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols
 * [**CANToolz**](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework
-* [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW)
+* [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer (successor of uds-server)
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer
 * [CANalyse](https://github.com/KartheekLade/CANalyse) - a vehicle network analysis and attack tool
 * [canhack](https://github.com/kentindell/canhack) - a low-level CAN protocol hacking library
