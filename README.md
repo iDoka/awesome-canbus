@@ -137,10 +137,10 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) working with OBD PIDs from Arduino + MCP2515 shield
-* [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles
+* [pyvit](https://github.com/linklayer/pyvit) - _[archived]_ Python Vehicle Interface Toolkit
 
 
 ### J1939 Tools
