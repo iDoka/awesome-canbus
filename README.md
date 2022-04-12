@@ -156,7 +156,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ### J2534 Tools
 
-* [JCanalog](https://github.com/ZacharyWalsh57/JCanalog) - Easy To Use J2534 Vehicle Logger
+* [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_
 * [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP
 
 
