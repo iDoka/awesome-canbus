@@ -152,6 +152,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux
 * [libj1939](https://github.com/paoloteti/libj1939) - library to work with J1939 Frames (intended to be used in microcontrollers)
 * [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - python libs and scripts for pretty-printing J1939 logs
+* [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - a tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS
 
 
 ### J2534 Tools
