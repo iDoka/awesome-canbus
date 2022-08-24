@@ -61,6 +61,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [canDrive](https://github.com/adamtheone/canDrive) - tools for hacking your car
 * [Carpunk](https://github.com/souravbaghz/Carpunk) - CAN injection toolkit and successor of CANghost
 * [CANghost](https://github.com/souravbaghz/CANghost) - automated Script For Hacking Into CAN Bus
+* [canTot](https://github.com/shipcod3/canTot) - quick and dirty canbus h4xing framework
 
 
 ## Utils
