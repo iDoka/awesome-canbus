@@ -342,6 +342,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
 
 
+## Contributing
+
+- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+
 ## Tags
 
 #awesome
