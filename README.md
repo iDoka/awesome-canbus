@@ -2,9 +2,9 @@
 <img src="https://github.com/iDoka/awesome-canbus/raw/master/can_logo.png" alt="CAN logo"/>
 </p>
 
-# :tractor: A curated list of awesome tools, hardware and resources for CAN bus
+# :tractor: Awesome tools, hardware and resources for CAN bus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
+This curated list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
 The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
 
