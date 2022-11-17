@@ -2,7 +2,7 @@
 <img src="https://github.com/iDoka/awesome-canbus/raw/master/can_logo.png" alt="CAN logo"/>
 </p>
 
-# :tractor: Awesome tools, hardware and resources for CAN bus 
+# :tractor: Awesome Tools, Hardware And Resources For CAN Bus 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/)
@@ -63,10 +63,10 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [ESP](#esp)
   * [SBC](#sbc)
   * [Others](#others-hw)
-  * [Hardware related tools](hardware-related-tools)
-* [etc](etc)
-* [Contributing](contributing)
-* [Tags](tags)
+  * [Hardware related tools](#hardware-related-tools)
+* [etc](#etc)
+* [Contributing](#contributing)
+* [Tags](#tags)
 
 <!--lint disable no-repeat-punctuation-->
 <!--lint disable double-link-->
