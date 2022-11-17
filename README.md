@@ -52,7 +52,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [Libraries](#libraries)
   * [Examples](#examples)
 * [CAN Databases](#can-databases)
-  * [Formats](#formats-dbc-kcd)
+  * [Formats (DBC, KCD)](#formats-dbc-kcd)
   * [Converters and Parsers](#converters-and-parsers)
   * [DBC only](#dbc-only)
 * [Hardware](#hardware)
@@ -60,7 +60,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [Arduino](#arduino)
   * [Espressif Systems (ESP8266, ESP32)](#espressif-systems-esp8266-esp32)
   * [SBC](#sbc)
-  * [Others](#others-hw)
+  * [Others HW](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
 * [Etc](#etc)
 * [Contributing](#contributing)
@@ -369,7 +369,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 <!--lint enable double-link-->
 <!--lint enable no-repeat-punctuation-->
 
-## etc
+## Etc
 
 Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
 
