@@ -2,7 +2,7 @@
 <img src="https://github.com/iDoka/awesome-canbus/raw/master/can_logo.png" alt="CAN logo"/>
 </p>
 
-# :Tractor: Awesome Tools, Hardware And Resources For CAN Bus 
+# Awesome Tools, Hardware And Resources For CAN Bus 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/)
@@ -12,7 +12,7 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/)
 
 
-<!--
+<!-- # :tractor: Awesome Tools, Hardware and Resources for CAN Bus 
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/)
