@@ -84,20 +84,20 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW).
 * [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer (successor of uds-server).
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer.
-* [CANalyse](https://github.com/KartheekLade/CANalyse) - a vehicle network analysis and attack tool.
-* [canhack](https://github.com/kentindell/canhack) - a low-level CAN protocol hacking library.
-* [canDrive](https://github.com/adamtheone/canDrive) - tools for hacking your car.
+* [CANalyse](https://github.com/KartheekLade/CANalyse) - A vehicle network analysis and attack tool.
+* [canhack](https://github.com/kentindell/canhack) - A low-level CAN protocol hacking library.
+* [canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car.
 * [Carpunk](https://github.com/souravbaghz/Carpunk) - CAN injection toolkit and successor of CANghost.
-* [CANghost](https://github.com/souravbaghz/CANghost) - automated Script For Hacking Into CAN Bus.
-* [canTot](https://github.com/shipcod3/canTot) - quick and dirty canbus h4xing framework.
+* [CANghost](https://github.com/souravbaghz/CANghost) - Automated Script For Hacking Into CAN Bus.
+* [canTot](https://github.com/shipcod3/canTot) - Quick and dirty canbus h4xing framework.
 
 
 ## Utils
 ### Common
 
 * [**Linux CAN Utils**](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
-* [**cantools**](https://github.com/mwkpe/cantools) - collection of CLI tools for the CAN bus network.
-* [BUSMASTER](https://github.com/rbei-etas/busmaster) - an Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
+* [**cantools**](https://github.com/mwkpe/cantools) - Collection of CLI tools for the CAN bus network.
+* [BUSMASTER](https://github.com/rbei-etas/busmaster) - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org).
 
@@ -112,14 +112,14 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CANtact-app](https://github.com/linklayer/cantact-app) Desktop application for CANtact hardware interface.
 * [SavvyCAN](https://github.com/collin80/SavvyCAN) - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [openCanSuite](https://github.com/sebi2k1/openCanSuite) - Set of tools for analyzing, simulating and visualizing a CAN system.
-* [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - scanning and visualizing tool for automotive systems.
+* [Plotter and Scanner from SmartGauges](https://github.com/smartgauges/obd2-bt-stm32/tree/master/qt) - Scanning and visualizing tool for automotive systems.
 * [ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator for SocketCAN by OpenGarages.
 * [CANgaroo](https://github.com/HubertD/cangaroo) - Qt-based CAN bus analyzer software.
 * [CAN-X](https://github.com/karlyamashita/CAN-X) - C# CAN bus analyzer software.
-* [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - universal CAN bus monitoring program.
-* [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) - development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets.
+* [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - Universal CAN bus monitoring program.
+* [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) - Development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets.
 * [SLSS-CANAnalyser](https://github.com/SeppHansen/SLSS-CANAnalyser) - SLSS CANAnalyser is Windows CAN-Bus-Analysis-Software to show, record and evaluate CAN-Bus signals.
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - [closed source] powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on.
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - [Closed source] powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on.
 * [CAN++](https://github.com/TDahlmann/canpp) - Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files (`*.dbc` or `*.kcd`) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms).
 * [CANcool](https://github.com/MHS-Elektronik/CANcool) - CAN bus Analyser and Simulation Software with CAN-FD support.
 * [Kayak](https://github.com/dschanoeh/Kayak) - _[archived]_ Java-based CAN traffic GUI analysis tool.
@@ -129,14 +129,14 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 * [**cantools**](https://github.com/eerimoq/cantools) - CAN BUS tools in Python.
 * [**python-can**](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers.
-* [strym](https://github.com/jmscslgroup/strym) - real time CAN data logging and visualization tool to work with USB-CAN Interface.
+* [strym](https://github.com/jmscslgroup/strym) - Real time CAN data logging and visualization tool to work with USB-CAN Interface.
 * [canviewer](https://github.com/tsabelmann/canviewer) - GUI program that allows the inspection of incoming can-bus messages, either from recorder can-bus data or live data.
 * [can4python](https://github.com/caran/can4python) - A package for handling CAN bus signals on Linux SocketCAN. Useful for showing the contents of KCD files (also those converted from DBC files).
 * [Python-Vector-CANoe](https://github.com/hmq2018/Python-Vector-CANoe) -  Control Vector CANoe API by Python.
 * [CanCat](https://github.com/atlas0fd00m/CanCat) - Swiss army knife of CAN often used in cars and building automation, etc.
-* [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - may be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance.
+* [Pyfuzz_can](https://github.com/bhass1/pyfuzz_can) - May be used in research to inject messages into a truck and cause acceleration, cluster spoofing, and degrade brake performance.
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter.
-* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces.
+* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
 ### UDS
@@ -157,19 +157,19 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader.
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway.
-* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - script to display data from a CAN bus over network interfaces.
+* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 
 
 ### OBD-II tools
 
-* [DDT4All](https://github.com/cedricp/ddt4all) - tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
+* [DDT4All](https://github.com/cedricp/ddt4all) - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer.
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
-* [CAN-Shark](https://github.com/quantyle/CAN-Shark) working with OBD PIDs from Arduino + MCP2515 shield.
+* [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database.
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
-* [pyvit](https://github.com/linklayer/pyvit) - _[archived]_ Python Vehicle Interface Toolkit.
+* [pyvit](https://github.com/linklayer/pyvit) - _[Archived]_ Python Vehicle Interface Toolkit.
 
 
 ### J1939 Tools
@@ -178,10 +178,10 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries.
 * [python-j1939](https://github.com/milhead2/python-j1939) - SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding.
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939.
-* [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - how to use CAN J1939 on linux.
-* [libj1939](https://github.com/paoloteti/libj1939) - library to work with J1939 Frames (intended to be used in microcontrollers).
-* [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - python libs and scripts for pretty-printing J1939 logs.
-* [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - a tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
+* [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - How to use CAN J1939 on linux.
+* [libj1939](https://github.com/paoloteti/libj1939) - Library to work with J1939 Frames (intended to be used in microcontrollers).
+* [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - Python libs and scripts for pretty-printing J1939 logs.
+* [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
 
 
 ### J2534 Tools
@@ -197,14 +197,14 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [c0f](https://github.com/zombieCraig/c0f/) - CAN bus fingerprinting tool is designed to analyze CAN bus traffic and fingerprint the Maker and Model.
 * [canqv](https://github.com/kurt-vd/canqv) - Quick CAN frame inspection using CAN_RAW.
 * [Candle.NET](https://github.com/elliotwoods/Candle.NET) - .NET wrapper for the Candle API for candlelight CAN bus gateways/analysers (e.g. CANable, CANtact, etc).
-* [canSerializer](https://github.com/zainahm3d/canSerializer) - lib for serializing and deserializing CAN frames for transmission over a non CAN transport layer (Can be used to transport CAN frames over UART, SPI, etc).
+* [canSerializer](https://github.com/zainahm3d/canSerializer) - Lib for serializing and deserializing CAN frames for transmission over a non CAN transport layer (Can be used to transport CAN frames over UART, SPI, etc).
 
 
 ### Libraries
 
-* [libwecan](https://github.com/nisennenmondai/libwecan) - header only lib to encode and decode CAN signal.
-* [python-can](https://github.com/hardbyte/python-can) - the can package provides controller area network support for Python developers.
-* [VCAN](https://github.com/TheMatjaz/VCAN) - a tiny virtual CAN and CAN-FD bus library in C.
+* [libwecan](https://github.com/nisennenmondai/libwecan) - Header only lib to encode and decode CAN signal.
+* [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers.
+* [VCAN](https://github.com/TheMatjaz/VCAN) - A tiny virtual CAN and CAN-FD bus library in C.
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD.
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN.
 * [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO 15765-2) Support Library in C.
@@ -215,7 +215,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ### Examples
 
 * [CAN-Examples](https://github.com/craigpeacock/CAN-Examples) - Example C code for CAN Sockets on Linux.
-* [socketcan-demo](https://github.com/zhanglongqi/socketcan-demo) - set of example programs which highlight how to make use of SocketCAN on Linux.
+* [socketcan-demo](https://github.com/zhanglongqi/socketcan-demo) - Set of example programs which highlight how to make use of SocketCAN on Linux.
 
 
 
@@ -239,23 +239,23 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ### Converters and Parsers
 
 * [**cantools** by Erik Moqvist](https://github.com/eerimoq/cantools) - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
-* [cantools by Andreas Heitmann](https://github.com/aheit/cantools) - a set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.
+* [cantools by Andreas Heitmann](https://github.com/aheit/cantools) - A set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.
 * [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (xls).
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
 * [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats (supports KCD r/w and DBC read).
 * [can4python](https://github.com/caran/can4python) - A useful package for showing the contents of KCD files (also those converted from DBC files).
 * [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
-* [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - util for convert dbc (canbus) to cpp(cplusplus) function.
+* [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - Util for convert dbc (canbus) to cpp(cplusplus) function.
 
 
 #### DBC only
 
-* [Vector DBC](https://bitbucket.org/tobylorenz/vector_dbc) - library to access CAN Databases (aka CANdb, aka DBC files) from Vector Informatik.
+* [Vector DBC](https://bitbucket.org/tobylorenz/vector_dbc) - Library to access CAN Databases (aka CANdb, aka DBC files) from Vector Informatik.
 * [dbcppp](https://github.com/xR3b0rn/dbcppp) - C/C++ DBC file parser/tool.
 * [can_decoder](https://github.com/CSS-Electronics/can_decoder) - API module for decoding raw CAN bus data to physical values using a DBC CAN database.
 * [CANdb from GENIVI](https://github.com/GENIVI/CANdb) - Library for parsing DBC - CAN bus database description formats.
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files.
-* [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - modified version of the dbc file parser of eerimoq.
+* [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - Modified version of the dbc file parser of eerimoq.
 * [dbc_reader](https://github.com/autti/dbc_reader) - Virtual can bus reader from dbc file (python).
 
 
@@ -268,7 +268,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 ### ARM
 
 * [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation.
-* [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - slcan firmware for the CVRA CAN to USB dongle.
+* [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - A slcan firmware for the CVRA CAN to USB dongle.
 * [**pcan_cantact**](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards.
 * [**pcan_pro_x**](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
 * [hadoucan-fw on STM32H750](https://github.com/suburbanembedded/hadoucan-fw) - Firmware for SM-1301 USB-CAN FD adapter based on.
@@ -285,26 +285,26 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN-Bus-Arduino_Core_STM32](https://github.com/seeers/CAN-Bus-Arduino_Core_STM32/blob/master/CanLowlevel.ino) - Lowlevel CanBUS Example for Arduino Core STM32.
 * [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter).
 * [STM32-CAN-Busadapter](https://github.com/IvanDev2018/STM32-CAN-Busadapter) - CAN adapter on MCU stm32f303cb.
-* [Ethernet-CAN converter](https://github.com/MikhailBerezhanov/cncu-01) - based on STM32F407.
+* [Ethernet-CAN converter](https://github.com/MikhailBerezhanov/cncu-01) - Based on STM32F407.
 * [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol.
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48.
 * [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions.
 * [CANCAN](https://github.com/DDolphin/CANCAN) - CAN recorder based on STM32F407ZGTx.
 * [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103.
-* [stm32-slcan](https://github.com/walmis/stm32-slcan) - slCAN compatible firmware for BluePill based on STM32f103C8T6.
+* [stm32-slcan](https://github.com/walmis/stm32-slcan) - SLCAN compatible firmware for BluePill based on STM32f103C8T6.
 * [**STM32duino_CAN_Library**](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
 * [CANBUS_UART](https://github.com/Oktay97/Canbus_Uart) - CANBUS to UART for STM32F1 (BluePill and Nucleo boards).
 
 
 #### STM32F042x based HW
 
-* [candleLight_fw](https://github.com/candle-usb/candleLight_fw) - compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
+* [candleLight_fw](https://github.com/candle-usb/candleLight_fw) - Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
 * [CANsniffer on STM32F042](https://github.com/majbthrd/CANsniffer) - CANbus sniffer less complicated than existing commercial products.
 * [candleLight](https://github.com/HubertD/candleLight) - KiCAD project of usb-can adapter based on STM32F0.
 * [cantact-hw](https://github.com/linklayer/cantact-hw) - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) as firmware source.
 * [cantact](https://github.com/linklayer/cantact/) - Drivers and Command Line Interface for CANtact tools.
 * [USB2CAN](https://github.com/roboterclubaachen/usb2can) - Compact and isolated USB-to-CAN Adapter.
-* [CANAlyze](https://kkuchera.github.io/canalyze/) - an open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) as firmware source.
+* [CANAlyze](https://kkuchera.github.io/canalyze/) - An open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) as firmware source.
 * [Cantact FW by x893](https://github.com/x893/cantact-fw).
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042.
 
@@ -321,7 +321,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more).
 * [CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple-Hardware) - The car hacking platform based on AVR and MCP2515 works with [this firmware](https://github.com/CANBus-Triple/CANBus-Triple).
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW).
-* [open-source-can-bridge](https://bitbucket.org/emile_nijssen/open-source-can-bridge) - gateway with several CAN interfaces based on Xmega.
+* [open-source-can-bridge](https://bitbucket.org/emile_nijssen/open-source-can-bridge) - Gateway with several CAN interfaces based on Xmega.
 * [arduino-mcp2515](https://github.com/autowp/arduino-mcp2515) - Arduino MCP2515 CAN interface library.
 * [slcanuino](https://github.com/kahiroka/slcanuino) - USB-CAN (SocketCAN) sketch for Arduino CAN-BUS shield.
 * [CITM02](https://github.com/BXProject/CITM02) - CAN In The Middle (CITM) the Dual channel CANBUS adapter built around Arduino.
@@ -336,7 +336,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [ESP32-Arduino-CAN](https://github.com/miwagner/ESP32-Arduino-CAN) - Arduino CAN-Bus library for ESP32.
 * [ESP32RET](https://github.com/collin80/ESP32RET) - CAN Reverse engineering tool for ESP32 based boards.
 * [ESP32_CAN_Interface](https://github.com/PhilippFux/ESP32_CAN_Interface) - Wireless CAN-Interface for the ESP32 which uses the cannelloni protocol to send CAN-Frames via UDP over an Wi-Fi tunnel.
-* [esp32_canbus_gateway](https://github.com/vigoballak/esp32_canbus_gateway) - can module on esp32 + tja1050 coded on micropython.
+* [esp32_canbus_gateway](https://github.com/vigoballak/esp32_canbus_gateway) - CAN module on esp32 + tja1050 coded on micropython.
 * [esp32-cantroller](https://github.com/neg2led/esp32-cantroller) - ESP32-S2-WROVER/WROOM based CANBUS controller thingy.
 * [esp32-canbus-logger](https://github.com/scipioni/esp32-canbus-logger) - CAN bus logger on uSD-card based on ESP32.
 * [**ESP32_CANViewer**](https://github.com/Cellgalvano/ESP32_CANViewer) -  ESP32 based CAN interface for your webbrowser.
@@ -360,7 +360,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### Hardware related tools
 
-* [CAN Bus Bit Timing Calculator](https://www.kvaser.com/support/calculators/bit-timing-calculator/) - online tool for obsolete SJA1000 and MCP2510 (probably it works for MCP2515).
+* [CAN Bus Bit Timing Calculator](https://www.kvaser.com/support/calculators/bit-timing-calculator/) - Online tool for obsolete SJA1000 and MCP2510 (probably it works for MCP2515).
 * [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 
 
