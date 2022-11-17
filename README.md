@@ -9,6 +9,7 @@
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-canbus/)](https://GitHub.com/iDoka/awesome-canbus/watchers/)
 [![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/graphs/contributors/)
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-canbus)](https://github.com/iDoka/awesome-canbus/pulls?q=is%3Amerged)
+[![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/)
 
 
 <!--
@@ -62,6 +63,10 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [ESP](#esp)
   * [SBC](#sbc)
   * [Others](#others-hw)
+  * [Hardware related tools](hardware-related-tools)
+* [etc](etc)
+* [Contributing](contributing)
+* [Tags](tags)
 
 
 
