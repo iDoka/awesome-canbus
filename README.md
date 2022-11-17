@@ -94,6 +94,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 
 ## Utils
+
 ### Common
 
 * [**Linux CAN Utils**](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
@@ -126,7 +127,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [Kayak](https://github.com/dschanoeh/Kayak) - _(archived)_ Java-based CAN traffic GUI analysis tool.
 
 
-#### Python Tools
+### Python Tools
 
 * [**cantools**](https://github.com/eerimoq/cantools) - CAN BUS tools in Python.
 * [**python-can**](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers.
