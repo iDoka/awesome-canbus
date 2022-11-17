@@ -52,19 +52,17 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [Libraries](#libraries)
   * [Examples](#examples)
 * [CAN Databases](#can-databases)
-  * [Formats](#formats)
-    * [DBC](#dbc)
-    * [KCD](#kcd)
+  * [Formats](#formats-dbc-kcd)
   * [Converters and Parsers](#converters-and-parsers)
   * [DBC only](#dbc-only)
 * [Hardware](#hardware)
   * [ARM](#arm)
   * [Arduino](#arduino)
-  * [ESP](#espressif-systems-esp8266-esp32)
+  * [Espressif Systems (ESP8266, ESP32)](#espressif-systems-esp8266-esp32)
   * [SBC](#sbc)
   * [Others](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
-* [etc](#etc)
+* [Etc](#etc)
 * [Contributing](#contributing)
 * [Tags](#tags)
 
@@ -225,9 +223,9 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ## CAN Databases
 
-### Formats
+### Formats (DBC, KCD)
 
-#### DBC
+**DBC**
 
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
@@ -235,7 +233,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [J1939 and DBC introduction](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/) - An Introduction to J1939 and DBC files.
 
 
-#### KCD
+**KCD**
 
 * [KCD](https://github.com/julietkilo/kcd) - An open format to describe communication relationships in CAN. similar to DBC format but written in XML.
 
@@ -252,7 +250,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - Util for convert dbc (canbus) to cpp(cplusplus) function.
 
 
-#### DBC only
+### DBC only
 
 * [Vector DBC](https://bitbucket.org/tobylorenz/vector_dbc) - Library to access CAN Databases (aka CANdb, aka DBC files) from Vector Informatik.
 * [dbcppp](https://github.com/xR3b0rn/dbcppp) - C/C++ DBC file parser/tool.
