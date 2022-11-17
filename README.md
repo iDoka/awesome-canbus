@@ -68,7 +68,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [Contributing](contributing)
 * [Tags](tags)
 
-
+<!--lint disable no-repeat-punctuation-->
+<!--lint disable double-link-->
 
 ## Hacking and Reverse Engineering tools
 
@@ -364,6 +365,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 
 
+<!--lint enable double-link-->
+<!--lint enable no-repeat-punctuation-->
 
 ## etc
 
@@ -372,7 +375,7 @@ Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for last
 
 ## Contributing
 
-- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+* Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 
 ## Tags
