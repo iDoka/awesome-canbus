@@ -60,7 +60,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [Hardware](#hardware)
   * [ARM](#arm)
   * [Arduino](#arduino)
-  * [ESP](#esp)
+  * [ESP](#espressif-systems-esp8266-esp32)
   * [SBC](#sbc)
   * [Others](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
@@ -224,7 +224,9 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 
 ## CAN Databases
+
 ### Formats
+
 #### DBC
 
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
