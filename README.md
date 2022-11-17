@@ -37,7 +37,6 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ## Contents
 
 * [Hacking and Reverse Engineering tools](#hacking-and-reverse-engineering-tools)
-
 * [Utils](#utils)
   * [Common](#common)
   * [GUI Tools](#gui-tools)
@@ -63,8 +62,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [Others HW](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
 * [Etc](#etc)
-* [Contributing](#contributing)
-* [Tags](#tags)
+
 
 <!--lint disable no-repeat-punctuation-->
 <!--lint disable double-link-->
@@ -378,7 +376,7 @@ Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for last
 
 * Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
-
+<!--
 ## Tags
 
 #awesome
@@ -428,6 +426,6 @@ Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for last
 #vehicular-networks
 #python
 #automotive-security
-
+-->
 
 
