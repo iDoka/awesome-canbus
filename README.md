@@ -64,8 +64,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [Etc](#etc)
 
 
-<!--lint  no-repeat-punctuation-->
-<!--lint  double-link-->
+<!--lint enable no-repeat-punctuation-->
+<!--lint enable double-link-->
 
 ## Hacking and Reverse Engineering tools
 
