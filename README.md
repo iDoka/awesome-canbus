@@ -204,7 +204,6 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ### Libraries
 
 * [libwecan](https://github.com/nisennenmondai/libwecan) - Header only lib to encode and decode CAN signal.
-* [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers.
 * [VCAN](https://github.com/TheMatjaz/VCAN) - A tiny virtual CAN and CAN-FD bus library in C.
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD.
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN.
