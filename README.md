@@ -75,7 +75,9 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks.
 * 🔝[CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols.
 * 🔝[CANToolz](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework.
+<!--lint disable double-link-->
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW).
+<!--lint enable double-link-->
 * [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer (successor of uds-server).
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer.
 * [CANalyse](https://github.com/KartheekLade/CANalyse) - A vehicle network analysis and attack tool.
@@ -122,8 +124,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ### Python Tools
 
+* 🔝[cantools](https://github.com/cantools/cantools) - CAN BUS tools in Python.
 <!--lint disable double-link-->
-* 🔝[cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python.
 * 🔝[python-can](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers.
 <!--lint enable double-link-->
 * [strym](https://github.com/jmscslgroup/strym) - Real time CAN data logging and visualization tool to work with USB-CAN Interface.
@@ -156,7 +158,6 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader.
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway.
-* [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 
 
 ### OBD-II tools
@@ -207,7 +208,6 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [VCAN](https://github.com/TheMatjaz/VCAN) - A tiny virtual CAN and CAN-FD bus library in C.
 * [IMCTFD](https://github.com/tonton81/IMCTFD) - Improved Microchip CAN Teensy FlexData Library MCP2517FD.
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN.
-* [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO 15765-2) Support Library in C.
 * [Qt CAN Bus](https://doc.qt.io/qt-5/qtcanbus-backends.html) - A multiplatform C++ plugin based library with support for various CAN Devices (SocketCAN, Sys Tec, PEAK, Virtual).
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
 
@@ -245,7 +245,9 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (xls).
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
 * [CANBabel](https://github.com/julietkilo/CANBabel) - Translator for several CAN description formats (supports KCD r/w and DBC read).
+<!--lint disable double-link-->
 * [can4python](https://github.com/caran/can4python) - A useful package for showing the contents of KCD files (also those converted from DBC files).
+<!--lint enable double-link-->
 * [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
 * [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - Util for convert dbc (canbus) to cpp(cplusplus) function.
 
