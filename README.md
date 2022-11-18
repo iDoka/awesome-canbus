@@ -69,15 +69,15 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ## Hacking and Reverse Engineering tools
 
-* [**CarHackingTools**](https://github.com/jgamblin/CarHackingTools) - Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking.
-* [**Caring Caribou**](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus.
-* [**CAN_Reverse_Engineering**](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
-* [**carhacking**](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection.
+* 🔝[CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking.
+* 🔝Caring Caribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus.
+* 🔝CAN_Reverse_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
+* 🔝carhacking](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection.
 * [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) - Reverse engineering of Controller Area Networks.
 * [parse_can_logs](https://github.com/v-ivanyshyn/parse_can_logs) - Parse CAN logs and visualize data streams on plot.
 * [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks.
-* [**CANalyzat0r**](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols.
-* [**CANToolz**](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework.
+* 🔝[CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols.
+* 🔝[CANToolz](https://github.com/CANToolz/CANToolz) - Black-box CAN network analysis framework.
 * [GVRET](https://github.com/collin80/GVRET) - Generalized Electric Vehicle Reverse Engineering Tool (Arduino FW).
 * [UDSim](https://github.com/zombieCraig/UDSim) - Unified Diagnostic Services Simulator and Fuzzer (successor of uds-server).
 * [uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer.
@@ -93,8 +93,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ### Common
 
-* [**Linux CAN Utils**](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
-* [**cantools**](https://github.com/mwkpe/cantools) - Collection of CLI tools for the CAN bus network.
+* 🔝[Linux CAN Utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
+* 🔝[cantools](https://github.com/mwkpe/cantools) - Collection of CLI tools for the CAN bus network.
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org).
