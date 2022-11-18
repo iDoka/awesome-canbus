@@ -70,9 +70,9 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 ## Hacking and Reverse Engineering tools
 
 * 🔝[CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking.
-* 🔝Caring Caribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus.
-* 🔝CAN_Reverse_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
-* 🔝carhacking](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection.
+* 🔝[Caring Caribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus.
+* 🔝[CAN_Reverse_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
+* 🔝[carhacking](https://github.com/daedalus/carhacking) - Car hacking scripts and docs collection.
 * [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) - Reverse engineering of Controller Area Networks.
 * [parse_can_logs](https://github.com/v-ivanyshyn/parse_can_logs) - Parse CAN logs and visualize data streams on plot.
 * [reversegear](https://github.com/linklayer/reversegear) - Offline Reverse Engineering Tools for Automotive Networks.
@@ -125,8 +125,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ### Python Tools
 
-* [**cantools**](https://github.com/eerimoq/cantools) - CAN BUS tools in Python.
-* [**python-can**](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers.
+* 🔝[cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python.
+* 🔝[python-can](https://github.com/hardbyte/python-can) - CAN package provides controller area network support for Python developers.
 * [strym](https://github.com/jmscslgroup/strym) - Real time CAN data logging and visualization tool to work with USB-CAN Interface.
 * [canviewer](https://github.com/tsabelmann/canviewer) - GUI program that allows the inspection of incoming can-bus messages, either from recorder can-bus data or live data.
 * [can4python](https://github.com/caran/can4python) - A package for handling CAN bus signals on Linux SocketCAN. Useful for showing the contents of KCD files (also those converted from DBC files).
@@ -238,7 +238,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 
 ### Converters and Parsers
 
-* [**cantools** by Erik Moqvist](https://github.com/eerimoq/cantools) - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
+* 🔝[cantools by Erik Moqvist](https://github.com/eerimoq/cantools) - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
 * [cantools by Andreas Heitmann](https://github.com/aheit/cantools) - A set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.
 * [CanDB](https://github.com/skysky97/Candb) - Generate CAN dbc file with OEM defined CAN matrix (xls).
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
@@ -269,8 +269,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 * [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation.
 * [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - A slcan firmware for the CVRA CAN to USB dongle.
-* [**pcan_cantact**](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards.
-* [**pcan_pro_x**](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
+* 🔝[pcan_cantact](https://github.com/moonglow/pcan_cantact) - PCAN firmware for CANtact ( CANable ) or any other similar boards.
+* 🔝[pcan_pro_x](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
 * [hadoucan-fw on STM32H750](https://github.com/suburbanembedded/hadoucan-fw) - Firmware for SM-1301 USB-CAN FD adapter based on.
 * [CANnon](https://github.com/mxcd/CANnon) - A versatile CAN bootloader for the STM32 and friends.
 * [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface.
@@ -292,7 +292,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANCAN](https://github.com/DDolphin/CANCAN) - CAN recorder based on STM32F407ZGTx.
 * [CAN-to-USB-lawicel-for-stm32](https://github.com/kolyandex/CAN-to-USB-lawicel-for-stm32) - CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103.
 * [stm32-slcan](https://github.com/walmis/stm32-slcan) - SLCAN compatible firmware for BluePill based on STM32f103C8T6.
-* [**STM32duino_CAN_Library**](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
+* 🔝[STM32duino_CAN_Library](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
 * [CANBUS_UART](https://github.com/Oktay97/Canbus_Uart) - CANBUS to UART for STM32F1 (BluePill and Nucleo boards).
 
 
@@ -311,7 +311,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### Arduino
 
-* [**arduino-canhacker**](https://github.com/autowp/arduino-canhacker) - CanHacker (lawicel) CAN adapter on Arduino + MCP2515.
+* 🔝[arduino-canhacker](https://github.com/autowp/arduino-canhacker) - CanHacker (lawicel) CAN adapter on Arduino + MCP2515.
 * [open-usb-can from Fabio Baltieri](https://github.com/fabiobaltieri/open-usb-can) - CAN-to-USB dongle based on ATMega32U and MCP2515.
 * [Arduino-CAN-bus-SD-logger](https://github.com/DieselDuz42/Arduino-CAN-bus-SD-logger) - Arduino script to log CAN bus information to SD card. Mainly focused on J1939.
 * [Arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) - Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB.
@@ -339,7 +339,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [esp32_canbus_gateway](https://github.com/vigoballak/esp32_canbus_gateway) - CAN module on esp32 + tja1050 coded on micropython.
 * [esp32-cantroller](https://github.com/neg2led/esp32-cantroller) - ESP32-S2-WROVER/WROOM based CANBUS controller thingy.
 * [esp32-canbus-logger](https://github.com/scipioni/esp32-canbus-logger) - CAN bus logger on uSD-card based on ESP32.
-* [**ESP32_CANViewer**](https://github.com/Cellgalvano/ESP32_CANViewer) -  ESP32 based CAN interface for your webbrowser.
+* 🔝[ESP32_CANViewer](https://github.com/Cellgalvano/ESP32_CANViewer) -  ESP32 based CAN interface for your webbrowser.
 * [esp-idf-can2http](https://github.com/nopnop2002/esp-idf-can2http) -  CANbus to http bridge using ESP32.
 
 
