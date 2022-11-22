@@ -209,6 +209,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [go-socketcan](https://github.com/linklayer/go-socketcan) - Golang library for SocketCAN.
 * [Qt CAN Bus](https://doc.qt.io/qt-5/qtcanbus-backends.html) - A multiplatform C++ plugin based library with support for various CAN Devices (SocketCAN, Sys Tec, PEAK, Virtual).
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
+* [iso15765-canbus](https://github.com/devcoons/iso15765-canbus) -  Implementation of ISO15765-2 in C.
 
 
 ### Examples
