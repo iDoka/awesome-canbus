@@ -330,6 +330,9 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [arduino-mcp2515](https://github.com/autowp/arduino-mcp2515) - Arduino MCP2515 CAN interface library.
 * [slcanuino](https://github.com/kahiroka/slcanuino) - USB-CAN (SocketCAN) sketch for Arduino CAN-BUS shield.
 * [CITM02](https://github.com/BXProject/CITM02) - CAN In The Middle (CITM) the Dual channel CANBUS adapter built around Arduino.
+* [arduino-OBD2](https://github.com/sandeepmistry/arduino-OBD2) - Arduino library for reading OBD-II data from your car over CAN bus.
+* [arduino-ecu-logger](https://github.com/ihaque/arduino-ecu-logger) - Arduino-based OBD2 engine monitor and data logger.
+
 
 
 ### Espressif Systems (ESP8266, ESP32)
