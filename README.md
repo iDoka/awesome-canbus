@@ -298,6 +298,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [stm32-slcan](https://github.com/walmis/stm32-slcan) - SLCAN compatible firmware for BluePill based on STM32f103C8T6.
 * 🔝[STM32duino_CAN_Library](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
 * [CANBUS_UART](https://github.com/Oktay97/Canbus_Uart) - CANBUS to UART for STM32F1 (BluePill and Nucleo boards).
+* [Open-OBD2-datalogger](https://github.com/arturlangner/Open-OBD2-datalogger) - NXP Kinetis E datalogger that saves live engine data to SD card (Visualization is done with HTML5 and JavaScript).
 
 
 #### STM32F042x based HW
@@ -311,6 +312,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANAlyze](https://kkuchera.github.io/canalyze/) - An open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) as firmware source.
 * [Cantact FW](https://github.com/x893/cantact-fw) - Cantact FirmWare by x893.
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042.
+* [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
 
 
 ### Arduino
@@ -366,6 +368,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Michrochip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Firmware](https://github.com/rkollataj/mcba_firmware) - Michrochip CAN BUS Analyzer firmware.
 * [Michrochip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Driver](https://github.com/rkollataj/mcba_usb) - Linux kernel driver for Microchip CAN BUS Analyzer Tool.
 * [BB-to-STM32](https://github.com/mvollrath/canbus_bbone_stm32) - LED sync between BeagleBone Black and STM32F4 Discovery Board.
+* [elm327_clone](https://github.com/darkspr1te/elm327_clone) - ELM327 firmware for pic18f25k80 chip from china clone OBD2.
 
 
 ### Hardware related tools
