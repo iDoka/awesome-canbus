@@ -262,6 +262,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files.
 * [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - Modified version of the dbc file parser of eerimoq.
 * [dbc_reader](https://github.com/autti/dbc_reader) - Virtual can bus reader from dbc file (python).
+* [CAN_BUS_DBC_VIEWER](https://github.com/akshaych92/CAN_BUS_DBC_VIEWER) - GUI based CAN bus dbc viewer.
 
 
 
