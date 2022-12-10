@@ -87,7 +87,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CANghost](https://github.com/souravbaghz/CANghost) - Automated Script For Hacking Into CAN Bus.
 * [canTot](https://github.com/shipcod3/canTot) - Quick and dirty canbus h4xing framework.
 * [CANanalyze](https://github.com/renault/cananalyze) - This framework can be used to interact with automotive protocols like CAN/ISOTP/UDS.
-* [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols
+* [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
 
 
 ## Utils
