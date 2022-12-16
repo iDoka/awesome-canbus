@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/iDoka/awesome-canbus/raw/master/media/can_logo.png" alt="CAN logo"/>
+<img src="https://github.com/iDoka/awesome-canbus/raw/main/media/can_logo.png" alt="CAN logo"/>
 </p>
 
 # Awesome Tools, Hardware And Resources For CAN Bus 
