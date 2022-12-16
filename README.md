@@ -277,16 +277,13 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### ARM
 
-* [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation.
-* [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - A slcan firmware for the CVRA CAN to USB dongle.
-* [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface.
-* [SuperCAN](https://github.com/jgressmann/supercan) - An open source USB to CAN-FD protocol firmware for ATSAME51.
-* [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard.
+* [USB_CAN-FD on ATSAME51](https://github.com/RudolphRiedel/USB_CAN-FD) - This is an Open Source Hardware USB to CAN-FD Interface (ATSAME51J).
+* [SuperCAN](https://github.com/jgressmann/supercan) - An open source USB to CAN-FD protocol firmware (ATSAME51).
 * [FlexCAN](https://github.com/collin80/FlexCAN_Library) - Arduino library for CAN on Teensy 3.1, 3.2, 3.5, and 3.6.
-* [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter) - CAN-RS485 Adapter.
-* [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol.
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48.
 * [Open-OBD2-datalogger](https://github.com/arturlangner/Open-OBD2-datalogger) - NXP Kinetis E datalogger that saves live engine data to SD card (Visualization is done with HTML5 and JavaScript).
+* [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol.
+
 
 #### STM32
 
@@ -308,6 +305,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN-BUS-Man-In-The-Middle](https://github.com/damienmaguire/CAN-BUS-Man-In-The-Middle) - Dual CAN MitM-device based on STM32F105.
 * [CAN-Bus-Arduino_Core_STM32](https://github.com/seeers/CAN-Bus-Arduino_Core_STM32/blob/master/CanLowlevel.ino) - Lowlevel CanBUS Example for Arduino Core STM32.
 * [BudgetCANv2](https://github.com/ryedwards/BudgetCANv2) - FW for use on STM32G4 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on [BudgetCANv2-HW](https://github.com/ryedwards/BudgetCANv2-HW).
+* [CanDybugFW](https://github.com/IntergatedCircuits/CanDybugFW) - Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation (STM32F302/STM32F042).
+* [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - A slcan firmware for the CVRA CAN to USB dongle (STM32F302).
+* [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).
+* [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter) - CAN-RS485 Adapter (STM32F103).
+
 
 #### STM32F0x2 based HW
 
@@ -321,7 +323,6 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Cantact FW](https://github.com/x893/cantact-fw) - Cantact FirmWare by x893.
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042.
 * [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
-
 
 
 ### Arduino
