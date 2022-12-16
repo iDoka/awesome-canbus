@@ -122,6 +122,8 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [CAN++](https://github.com/TDahlmann/canpp) - Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files (`*.dbc` or `*.kcd`) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms).
 * [CANcool](https://github.com/MHS-Elektronik/CANcool) - CAN bus Analyser and Simulation Software with CAN-FD support.
 * [Kayak](https://github.com/dschanoeh/Kayak) - Java-based CAN traffic GUI analysis tool _(archived)_.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
+* [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 
 
 ### Python Tools
@@ -233,6 +235,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
 * [DBC File Explained](https://www.csselectronics.com/screen/page/can-dbc-file-database-intro/language/en) - A Simple Intro to DCB file format.
 * [J1939 and DBC introduction](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/) - An Introduction to J1939 and DBC files.
+* 🔝[cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker (a tool developed to view raw CAN data; one use for this is creating and editing CAN Dictionaries (DBC files)).
 
 
 **KCD**
@@ -302,6 +305,10 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * 🔝[STM32duino_CAN_Library](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
 * [CANBUS_UART](https://github.com/Oktay97/Canbus_Uart) - CANBUS to UART for STM32F1 (BluePill and Nucleo boards).
 * [Open-OBD2-datalogger](https://github.com/arturlangner/Open-OBD2-datalogger) - NXP Kinetis E datalogger that saves live engine data to SD card (Visualization is done with HTML5 and JavaScript).
+
+#### STM32
+
+* 🔝[panda](https://github.com/commaai/panda) - It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).
 
 
 #### STM32F042x based HW
