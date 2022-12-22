@@ -1,9 +1,4 @@
-<p align="center">
-<img src="https://github.com/iDoka/awesome-canbus/raw/main/media/can_logo.png" alt="CAN logo"/>
-</p>
-
-# Awesome Tools, Hardware And Resources For CAN Bus 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CAN Bus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-canbus/)](https://GitHub.com/iDoka/awesome-canbus/watchers/)
@@ -11,6 +6,11 @@
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-canbus)](https://github.com/iDoka/awesome-canbus/pulls?q=is%3Amerged)
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/)
 
+<p align="center"><img src="https://github.com/iDoka/awesome-canbus/raw/main/media/can_logo.png" alt="CAN logo"/></p>
+
+<!--<p align="center">
+<img src="https://github.com/iDoka/awesome-canbus/raw/main/media/can_logo.png" alt="CAN logo"/>
+</p>-->
 
 <!-- # :tractor: Awesome Tools, Hardware and Resources for CAN Bus 
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/)
@@ -26,13 +26,12 @@
 -->
 
 
-
+> :tractor: Awesome Tools, Hardware And Resources For CAN Bus 
 
 This curated list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
-The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
+Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
-permanent URL: https://github.com/iDoka/awesome-canbus
 
 ## Contents
 
@@ -61,7 +60,7 @@ permanent URL: https://github.com/iDoka/awesome-canbus
   * [SBC](#sbc)
   * [Others HW](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
-* [Etc](#etc)
+
 
 
 ## Hacking and Reverse Engineering tools
@@ -386,15 +385,17 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN Bus Bit Timing Calculator](https://www.kvaser.com/support/calculators/bit-timing-calculator/) - Online tool for obsolete SJA1000 and MCP2510 (probably it works for MCP2515).
 * [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 
-
-## Etc
-
-Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
-
+---
 
 ## Contributing
 
 * Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+
+## Footnotes
+
+1. Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
+2. The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
 
 <!--
 ## Tags
