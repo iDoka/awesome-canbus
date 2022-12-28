@@ -147,6 +147,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 * [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard.
 * [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II C Library.
+* [iso14229](https://github.com/driftregion/iso14229) - C implementation of UDS ISO-14229 server and client for embedded systems.
 
 
 ### ISO-TP
