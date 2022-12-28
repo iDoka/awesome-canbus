@@ -26,7 +26,7 @@
 -->
 
 
-> :tractor: Awesome Tools, Hardware And Resources For CAN Bus 
+> :tractor: Awesome Tools, Hardware And Resources For CAN Bus
 
 This curated list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
