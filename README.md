@@ -52,7 +52,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
   * [Other Utils](#other-utils)
   * [Libraries](#libraries)
   * [Examples](#examples)
-* [CAN Databases](#can-databases)
+* [CAN Database](#can-database)
   * [Formats (DBC, KCD)](#formats-dbc-kcd)
   * [Converters and Parsers](#converters-and-parsers)
   * [DBC only](#dbc-only)
@@ -96,7 +96,6 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ### Common
 
-* 🔝[Linux CAN Utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
 * 🔝[cantools](https://github.com/mwkpe/cantools) - Collection of CLI tools for the CAN bus network.
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
@@ -105,9 +104,10 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ### Linux related
 
+* 🔝[Linux CAN Utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space useful utils.
 * [CAN support in Linux](https://elinux.org/CAN_Bus#CAN_Support_in_Linux) - Linux kernel support for CAN hardware interfaces.
 * [SocketCAN](https://docs.kernel.org/networking/can.html) - Linux kernel support (kernel >= 2.6).
-* [J1939](https://docs.kernel.org/networking/j1939.html) - Linux kernel support (kernel >= 5.4).
+* [J1939](https://docs.kernel.org/networking/j1939.html) - Linux kernel support (kernel >= 5.4) also see [can-j1939 kernel module](https://github.com/linux-can/can-utils/blob/master/can-j1939-install-kernel-module.md).
 * [elmcan](https://github.com/norly/elmcan) - Linux SocketCAN kernel driver for ELM327 based devices (kernel >= 6.0).
 
 
