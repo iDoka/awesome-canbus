@@ -30,6 +30,8 @@
 
 This curated list helps a reverse engineering CAN bus devices with lightly specializing in automotive embedded controller software and communication understanding.
 
+Items marked as "🔝" are highly recommended.
+
 Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 
@@ -38,6 +40,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Hacking and Reverse Engineering tools](#hacking-and-reverse-engineering-tools)
 * [Utils](#utils)
   * [Common](#common)
+  * [Linux related](#linux-related)
   * [GUI Tools](#gui-tools)
   * [Python Tools](#python-tools)
   * [UDS](#uds)
@@ -100,6 +103,14 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org).
 
 
+### Linux related
+
+* [CAN support in Linux](https://elinux.org/CAN_Bus#CAN_Support_in_Linux) - Linux kernel support for CAN hardware interfaces.
+* [SocketCAN](https://docs.kernel.org/networking/can.html) - Linux kernel support (kernel >= 2.6).
+* [J1939](https://docs.kernel.org/networking/j1939.html) - Linux kernel support (kernel >= 5.4).
+* [elmcan](https://github.com/norly/elmcan) - Linux SocketCAN kernel driver for ELM327 based devices (kernel >= 6.0).
+
+
 ### GUI Tools
 
 * [CANdevStudio from GENIVI](https://github.com/GENIVI/CANdevStudio) - CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.
@@ -142,6 +153,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter.
 * [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+
 
 ### UDS
 
@@ -189,6 +201,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 
 ### J2534 Tools
+
 <!--lint disable no-repeat-punctuation-->
 * [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
 <!--lint enable no-repeat-punctuation-->
@@ -225,11 +238,11 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 
 
-## CAN Databases
+## CAN Database
 
 ### Formats (DBC, KCD)
 
-**DBC**
+**DBC** - The de facto standard for CAN databases is the DBC file format developed by Vector Informatik GmbH. It is a proprietary format in that no official public documentation or specification is available.
 
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
