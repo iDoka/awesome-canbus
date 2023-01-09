@@ -242,7 +242,9 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ### Formats (DBC, KCD)
 
-**DBC** - The de facto standard for CAN databases is the DBC file format developed by Vector Informatik GmbH. It is a proprietary format in that no official public documentation or specification is available.
+#### DBC
+
+DBC - The de facto standard for CAN databases is the DBC file format developed by Vector Informatik GmbH. It is a proprietary format in that no official public documentation or specification is available.
 
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
@@ -250,8 +252,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [J1939 and DBC introduction](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/) - An Introduction to J1939 and DBC files.
 * 🔝[cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker (a tool developed to view raw CAN data; one use for this is creating and editing CAN Dictionaries (DBC files)).
 
-
-**KCD**
+#### KCD
 
 * [KCD](https://github.com/julietkilo/kcd) - An open format to describe communication relationships in CAN. similar to DBC format but written in XML.
 
@@ -281,6 +282,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [dbc_reader](https://github.com/autti/dbc_reader) - Virtual can bus reader from dbc file (python).
 * [CAN_BUS_DBC_VIEWER](https://github.com/akshaych92/CAN_BUS_DBC_VIEWER) - GUI based CAN bus dbc viewer.
 * [dbcview](https://github.com/driftregion/dbcview) - DBC visualization tool - plots a graph of sending and receiving nodes linked by messages.
+* [VectorDbcChecker](https://github.com/Golyshkin/VectorDbcChecker) - Vector DBC Checker a Python GUI application for checking DBC files for messages duplication, missed network nodes, signals overlap in message, etc.
 
 
 
