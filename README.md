@@ -341,6 +341,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Cantact FW](https://github.com/x893/cantact-fw) - Cantact FirmWare by x893.
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042.
 * [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
+* [pcan_cantact](https://github.com/moonglow/pcan_cantact) - XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.
 
 
 ### Arduino
