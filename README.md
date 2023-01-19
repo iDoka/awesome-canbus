@@ -129,7 +129,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - Universal CAN bus monitoring program.
 * [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) - Development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets.
 * [SLSS-CANAnalyser](https://github.com/SeppHansen/SLSS-CANAnalyser) - SLSS CANAnalyser is Windows CAN-Bus-Analysis-Software to show, record and evaluate CAN-Bus signals.
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on _(Closed source)_.
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on _(Closed source)_.
 * [CAN++](https://github.com/TDahlmann/canpp) - Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files (`*.dbc` or `*.kcd`) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms).
 * [CANcool](https://github.com/MHS-Elektronik/CANcool) - CAN bus Analyser and Simulation Software with CAN-FD support.
 * [Kayak](https://github.com/dschanoeh/Kayak) - Java-based CAN traffic GUI analysis tool _(archived)_.
@@ -416,6 +416,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 1. Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
 2. The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
+3. Also might be useful [this curated list](https://github.com/iDoka/awesome-linbus) of awesome tools and resources for LIN bus reverse engineering, LIN hardware development and debugging.
 
 <!--
 ## Tags
