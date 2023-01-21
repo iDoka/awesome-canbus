@@ -155,6 +155,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Robotell-USB-CAN-Python](https://github.com/nopnop2002/Robotell-USB-CAN-Python) - Python program for Robotell USB-CAN Adapter.
 * [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+* [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by [python-can](https://github.com/hardbyte/python-can).
 
 
 ### UDS
