@@ -328,6 +328,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) - A slcan firmware for the CVRA CAN to USB dongle (STM32F302).
 * [zubax_babel](https://github.com/Zubax/zubax_babel) - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).
 * [CAN-RS485-adapter](https://github.com/YuriyLogvin/CAN-RS485-adapter) - CAN-RS485 Adapter (STM32F103).
+* [vector_can](https://github.com/moonglow/vector_can) - Vector VN1610 protocol implementation for cheap STM32F407/405 hardware (Two CAN channel).
+* [CAN_OMEGA](https://github.com/zjlywjh001/CAN_OMEGA) - Ultimate CAN Bus hardware for Car hacking based on STM32F411. Full Featured [firmware](https://github.com/zjlywjh001/CAN_Omega_Firmware) & [software](https://github.com/zjlywjh001/CAN_OMEGA_Tools).
 
 
 #### STM32F0x2 based HW
@@ -343,6 +345,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [ELM329](https://github.com/ObdDiag-Net/elm329) - Open-source ELM329 OBD adapter based on STM32F042.
 * [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
 * [pcan_cantact](https://github.com/moonglow/pcan_cantact) - XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.
+* [kvaser_cantact](https://github.com/moonglow/kvaser_cantact) - Xvaser LL v2 firmware for CANtact/CANable or any other similar boards based on STM32F042.
 
 
 ### Arduino
