@@ -129,6 +129,8 @@ _ISO 15765-2 Standard_
 
 * [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C.
 * [python-can-IsoTP](https://github.com/pylessard/python-can-isotp) - Python implementation of the ISO-TP (ISO15765-2) CAN protocol.
+* [CanTp](https://github.com/Sauci/CanTp) - Implementation of the CanTp module (ISO 15765-2), according to AUTOSAR specification v4.4.0.
+* [aioisotp](https://github.com/christiansandberg/aioisotp) - ISO-TP implemenation for asyncio Python.
 
 ### J1939 Tools
 
@@ -172,6 +174,7 @@ _SAE J2534 Standard_
 * [SocketCAN](https://docs.kernel.org/networking/can.html) - Linux kernel support (kernel >= 2.6).
 * [J1939](https://docs.kernel.org/networking/j1939.html) - Linux kernel support (kernel >= 5.4) also see [can-j1939 kernel module](https://github.com/linux-can/can-utils/blob/master/can-j1939-install-kernel-module.md).
 * [elmcan](https://github.com/norly/elmcan) - Linux SocketCAN kernel driver for ELM327 based devices (kernel >= 6.0).
+* [can-isotp](https://github.com/hartkopp/can-isotp) - Linux Kernel Module for ISO 15765-2:2016 CAN transport protocol (part of the Linux kernel >= 5.10).
 
 
 ### GUI Tools
@@ -218,6 +221,7 @@ _SAE J2534 Standard_
 * [python-socketcan-monitor](https://github.com/P1kachu/python-socketcan-monitor) - Script to display data from a CAN bus over network interfaces.
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 * [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by `python-can`.
+* [py4can](https://github.com/SikkandarSulaiman/py4can) - Python utility to send and receive CAN messages through CANalyzer.
 
 
 ### CAN-over-IP
@@ -303,7 +307,8 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 * [CAN_BUS_DBC_VIEWER](https://github.com/akshaych92/CAN_BUS_DBC_VIEWER) - GUI based CAN bus dbc viewer.
 * [dbcview](https://github.com/driftregion/dbcview) - DBC visualization tool - plots a graph of sending and receiving nodes linked by messages.
 * [VectorDbcChecker](https://github.com/Golyshkin/VectorDbcChecker) - Vector DBC Checker a Python GUI application for checking DBC files for messages duplication, missed network nodes, signals overlap in message, etc.
-
+* [pydbc](https://github.com/Sauci/pydbc) - AST generator for dbc format.
+* [pydbc](https://github.com/christoph2/pydbc) - Process vehicle network descriptions (CAN .dbc files).
 
 
 ## Hardware
