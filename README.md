@@ -97,6 +97,9 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ## Test equipment and simulators
 
+* [ECU-simulator](https://github.com/lbenthins/ecu-simulator) - Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols.
+* [ELM327-emulator](https://github.com/Ircama/ELM327-emulator) - ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation.
+
 
 
 ## Protocols
@@ -114,16 +117,22 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ### UDS
 
+_ISO 14229 Standard_
+
 * [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard.
 * [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II C Library.
 * [iso14229](https://github.com/driftregion/iso14229) - C implementation of UDS ISO-14229 server and client for embedded systems.
 
 ### ISO-TP
 
+_ISO 15765-2 Standard_
+
 * [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C.
 * [python-can-IsoTP](https://github.com/pylessard/python-can-isotp) - Python implementation of the ISO-TP (ISO15765-2) CAN protocol.
 
 ### J1939 Tools
+
+_SAE J1939 Standard_
 
 * [J1939-CANBUS](https://github.com/taha842/J1939-CANBUS) - Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO.
 * [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries.
@@ -136,6 +145,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
 
 ### J2534 Tools
+
+_SAE J2534 Standard_
 
 <!--lint disable no-repeat-punctuation-->
 * [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
