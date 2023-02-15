@@ -39,17 +39,19 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 ## Contents
 
 * [Hacking and Reverse Engineering tools](#hacking-and-reverse-engineering-tools)
+* [Test equipment and simulators](#test-equipment-and-simulators)
+* [Protocols](#protocols)
+  * [OBD-II tools](#obd-ii-tools)
+  * [UDS](#uds)
+  * [ISO-TP](#iso-tp)
+  * [J1939 Tools](#j1939-tools)
+  * [J2534 Tools](#j2534-tools)
 * [Utils](#utils)
   * [Common](#common)
   * [Linux related](#linux-related)
   * [GUI Tools](#gui-tools)
   * [Python Tools](#python-tools)
-  * [UDS](#uds)
-  * [ISO-TP](#iso-tp)
   * [CAN-over-IP](#can-over-ip)
-  * [OBD-II tools](#obd-ii-tools)
-  * [J1939 Tools](#j1939-tools)
-  * [J2534 Tools](#j2534-tools)
   * [Other Utils](#other-utils)
   * [Libraries](#libraries)
   * [Examples](#examples)
@@ -91,6 +93,55 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [canTot](https://github.com/shipcod3/canTot) - Quick and dirty canbus h4xing framework.
 * [CANanalyze](https://github.com/renault/cananalyze) - This framework can be used to interact with automotive protocols like CAN/ISOTP/UDS.
 * [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
+
+
+## Test equipment and simulators
+
+
+
+## Protocols
+
+### OBD-II tools
+
+* [DDT4All](https://github.com/cedricp/ddt4all) - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
+* [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer.
+* [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
+* [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
+* [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
+* [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database.
+* [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
+* [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
+
+### UDS
+
+* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard.
+* [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II C Library.
+* [iso14229](https://github.com/driftregion/iso14229) - C implementation of UDS ISO-14229 server and client for embedded systems.
+
+### ISO-TP
+
+* [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C.
+* [python-can-IsoTP](https://github.com/pylessard/python-can-isotp) - Python implementation of the ISO-TP (ISO15765-2) CAN protocol.
+
+### J1939 Tools
+
+* [J1939-CANBUS](https://github.com/taha842/J1939-CANBUS) - Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO.
+* [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries.
+* [python-j1939](https://github.com/milhead2/python-j1939) - SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding.
+* [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939.
+* [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - How to use CAN J1939 on linux.
+* [libj1939](https://github.com/paoloteti/libj1939) - Library to work with J1939 Frames (intended to be used in microcontrollers).
+* [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - Python libs and scripts for pretty-printing J1939 logs.
+* [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
+* [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
+
+### J2534 Tools
+
+<!--lint disable no-repeat-punctuation-->
+* [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
+<!--lint enable no-repeat-punctuation-->
+* [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP.
+
 
 
 ## Utils
@@ -158,57 +209,12 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by `python-can`.
 
 
-### UDS
-
-* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS ISO-14229 standard.
-* [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II C Library.
-* [iso14229](https://github.com/driftregion/iso14229) - C implementation of UDS ISO-14229 server and client for embedded systems.
-
-
-### ISO-TP
-
-* [isotp-c](https://github.com/openxc/isotp-c) - An implementation of the ISO-TP (ISO15765-2) CAN protocol in C.
-* [python-can-IsoTP](https://github.com/pylessard/python-can-isotp) - Python implementation of the ISO-TP (ISO15765-2) CAN protocol.
-
-
 ### CAN-over-IP
 
 * [cannelloni](https://github.com/mguentner/cannelloni) - SocketCAN over Ethernet tunnel.
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader.
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway.
-
-
-### OBD-II tools
-
-* [DDT4All](https://github.com/cedricp/ddt4all) - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
-* [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer.
-* [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
-* [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
-* [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
-* [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database.
-* [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
-* [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
-
-
-### J1939 Tools
-
-* [J1939-CANBUS](https://github.com/taha842/J1939-CANBUS) - Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO.
-* [J1939-Framework](https://github.com/famez/J1939-Framework) - Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries.
-* [python-j1939](https://github.com/milhead2/python-j1939) - SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding.
-* [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939.
-* [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - How to use CAN J1939 on linux.
-* [libj1939](https://github.com/paoloteti/libj1939) - Library to work with J1939 Frames (intended to be used in microcontrollers).
-* [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - Python libs and scripts for pretty-printing J1939 logs.
-* [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
-
-
-### J2534 Tools
-
-<!--lint disable no-repeat-punctuation-->
-* [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
-<!--lint enable no-repeat-punctuation-->
-* [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP.
 
 
 ### Other Utils
