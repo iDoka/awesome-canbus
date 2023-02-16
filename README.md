@@ -93,6 +93,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [canTot](https://github.com/shipcod3/canTot) - Quick and dirty canbus h4xing framework.
 * [CANanalyze](https://github.com/renault/cananalyze) - This framework can be used to interact with automotive protocols like CAN/ISOTP/UDS.
 * [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
+* [CAN-RE-Tool](https://github.com/openvehicles/CAN-RE-Tool) - Reverse engineering tool for systems based on CAN bus communications.
 
 
 ## Test equipment and simulators
