@@ -176,6 +176,7 @@ _SAE J2534 Standard_
 * [J1939](https://docs.kernel.org/networking/j1939.html) - Linux kernel support (kernel >= 5.4) also see [can-j1939 kernel module](https://github.com/linux-can/can-utils/blob/master/can-j1939-install-kernel-module.md).
 * [elmcan](https://github.com/norly/elmcan) - Linux SocketCAN kernel driver for ELM327 based devices (kernel >= 6.0).
 * [can-isotp](https://github.com/hartkopp/can-isotp) - Linux Kernel Module for ISO 15765-2:2016 CAN transport protocol (part of the Linux kernel >= 5.10).
+* [gs_usb](https://github.com/ryedwards/gs_usb) - Linux/Windows CAN driver based on WCID for Geschwister Schneider USB/CAN devices and candleLight USB CAN interfaces.
 
 
 ### GUI Tools
