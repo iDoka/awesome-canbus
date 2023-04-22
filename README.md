@@ -146,6 +146,7 @@ _SAE J1939 Standard_
 * [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - Python libs and scripts for pretty-printing J1939 logs.
 * [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
 * [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
+* [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939) - SAE J1939 protocol free to use for embedded systems or PC with CAN-bus.
 
 ### J2534 Tools
 
