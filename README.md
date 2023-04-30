@@ -402,8 +402,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [ESP-IDF-CANBus-Monitor](https://github.com/nopnop2002/esp-idf-CANBus-Monitor) - Monitor Canbus traffic ESP32.
 * [connected-car](https://github.com/marmotton/connected-car) - Connecting a Nissan e-NV200 (or Leaf) to MQTT.
 * [PSASteeringWheelAdapter](https://github.com/morcibacsi/PSASteeringWheelAdapter) - ESP32 based steering wheel adapter for Peugeot and Citroen cars.
-* [esp32-slcan](https://github.com/mintynet/esp32-slcan) - ESP32 slcan compatible device.
 <!--lint disable double-link-->
+* [esp32-slcan](https://github.com/mintynet/esp32-slcan) - ESP32 slcan compatible device.
 * [esp32s3-slcan](https://github.com/Pacerino/TWAI_SLCAN) - SLCAN implementation for ESP32-S3 (based on [esp32-slcan](https://github.com/mintynet/esp32-slcan)).
 <!--lint enable double-link-->
 * [ESP32-Arduino-CAN](https://github.com/miwagner/ESP32-Arduino-CAN) - Arduino CAN-Bus library for ESP32.
