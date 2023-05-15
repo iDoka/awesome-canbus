@@ -157,7 +157,8 @@ _SAE J2534 Standard_
 * [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
 <!--lint enable no-repeat-punctuation-->
 * [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP.
-
+* [SharpWrap2534](https://github.com/MEAT-Inc/SharpWrap2534) - The Ultimate J2534 Wrapper Suite.
+* [gocanflasher](https://github.com/roffe/gocanflasher) - Trionic 5/7/8 CANbus flasher with J2534 support.
 
 
 ## Utils
