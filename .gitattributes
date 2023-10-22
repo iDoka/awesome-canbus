@@ -3,3 +3,4 @@
 *.pdf binary
 README.md merge=union
 
+archive.sh linguist-vendored=false
