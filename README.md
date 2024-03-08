@@ -420,7 +420,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [esp32_obd2](https://github.com/MagnusThome/esp32_obd2) - Simplified OBD2 layer to run on top of the esp32_can library that supports the newer ESP32-S3 (Arduino library).
 * [ESP32_OBD2_Emulator](https://github.com/MagnusThome/ESP32_OBD2_Emulator) - Simple OBD2 car emulator which runs on ESP32-S3 (replies to all OBD2 requests with dummy data).
 * [RejsaCAN-ESP32](https://github.com/MagnusThome/RejsaCAN-ESP32) - ESP32-S3 board with CAN interface.
-* [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) - example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
+* [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) - Example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
 
 
 ### SBC
