@@ -144,6 +144,7 @@ _SAE J1939 Standard_
 * [can-utils with J1939 support](https://github.com/kurt-vd/can-utils/tree/j1939-v6) - Fork of can-utils with a few additional tools for J1939.
 * [test-can-j1939](https://github.com/kurt-vd/test-can-j1939) - How to use CAN J1939 on linux.
 * [libj1939](https://github.com/paoloteti/libj1939) - Library to work with J1939 Frames (intended to be used in microcontrollers).
+* [embr::j1939](https://github.com/malachi-iot/j1939) - Lean, portable J1939 library for embedded MCUs
 * [Pretty-J1939](https://github.com/nmfta-repo/pretty_j1939) - Python libs and scripts for pretty-printing J1939 logs.
 * [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) - A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.
 * [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
