@@ -208,7 +208,7 @@ _SAE J2534 Standard_
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
 
-## TUI
+### TUI Tools
 * [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal
 
 ### Python Tools
