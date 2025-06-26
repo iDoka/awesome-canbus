@@ -330,7 +330,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48.
 * [Open-OBD2-datalogger](https://github.com/arturlangner/Open-OBD2-datalogger) - NXP Kinetis E datalogger that saves live engine data to SD card (Visualization is done with HTML5 and JavaScript).
 * [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol.
-* [PiCCANTE](https://github.com/Alia5/PiCCANTE) - Open-source CAN hacking tool based on Raspberry Pi Pico [2] (W) - Up to 3x CAN interfaces, includes ELM327 emulator 
+* [PiCCANTE](https://github.com/Alia5/PiCCANTE) - Open-source CAN hacking tool based on Raspberry Pi Pico [2] (W) - Up to 3x CAN interfaces, includes ELM327 emulator.
 
 #### STM32
 
