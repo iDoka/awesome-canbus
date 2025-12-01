@@ -207,6 +207,7 @@ _SAE J2534 Standard_
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
+* [bootCAN](https://github.com/friessssss/bootCAN/tree/V0.2.0-prealpha) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting
 
 
 ### Python Tools
