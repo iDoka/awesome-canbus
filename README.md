@@ -71,6 +71,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ## Hacking and Reverse Engineering tools
 
+* [ECU-Bypass-Framework-XRS9000](https://github.com/OpenECU-Labs/ECU-Bypass-Framework-XRS9000) - Advanced MitM hardware abstraction layer for CAN-FD/UDS protocol interception and real-time checksum correction.
+* 
 * 🔝[CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking.
 * 🔝[Caring Caribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus.
 * 🔝[CAN_Reverse_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
