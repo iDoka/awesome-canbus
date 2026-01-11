@@ -187,8 +187,6 @@ _SAE J2534 Standard_
 
 * [CANdevStudio from GENIVI](https://github.com/GENIVI/CANdevStudio) - CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.
 * [CANAL-View](https://github.com/rusoku/CANAL-View) - Qt GUI for TouCAN USB to CAN bus converter.
-* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
-* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Novo Bus Analyzer is a fork of BUSMASTER. BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [wxCAN-Sniffer](https://github.com/KruFFT/wxCAN-Sniffer) - CAN bus sniffer (PC side) with animation and chart.
 * [CANLogger](https://github.com/olegel/CANLogger) - CAN bus logger and analyzer tool.
 * [Seeed-USB-CAN-Analyzer](https://github.com/SeeedDocument/USB-CAN-Analyzer/) - Closed source binary for noname Chinese USB-CAN adapter.
@@ -209,10 +207,15 @@ _SAE J2534 Standard_
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
-* [bootCAN](https://github.com/friessssss/bootCAN/tree/V0.2.0-prealpha) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting
+* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
+* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Novo Bus Analyzer is a fork of BUSMASTER. BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
+* [bootCAN](https://github.com/friessssss/bootCAN) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.
+
 
 ### TUI Tools
+
 * [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal
+
 
 ### Python Tools
 
