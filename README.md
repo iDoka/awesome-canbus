@@ -33,8 +33,9 @@ This curated list helps a reverse engineering CAN bus devices with lightly speci
 > **Note**
 > Items marked as "🔝" are highly recommended.
 
+<!--lint disable double-link-->
 Permanent URL to this list: https://github.com/iDoka/awesome-canbus
-
+<!--lint enable double-link-->
 
 ## Contents
 
@@ -50,6 +51,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
   * [Common](#common)
   * [Linux related](#linux-related)
   * [GUI Tools](#gui-tools)
+  * [TUI Tools](#tui-tools)
   * [Python Tools](#python-tools)
   * [CAN-over-IP](#can-over-ip)
   * [Other Utils](#other-utils)
@@ -113,7 +115,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
-* [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database.
+* [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an SQLite database.
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
 
@@ -155,7 +157,7 @@ _SAE J1939 Standard_
 _SAE J2534 Standard_
 
 <!--lint disable no-repeat-punctuation-->
-* [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_.
+<!-- * [~~JCanalog~~](https://github.com/ZacharyWalsh57/JCanalog) - ~~Easy To Use J2534 Vehicle Logger~~ _(left for history)_. -->
 <!--lint enable no-repeat-punctuation-->
 * [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP.
 * [SharpWrap2534](https://github.com/MEAT-Inc/SharpWrap2534) - The Ultimate J2534 Wrapper Suite.
@@ -208,13 +210,13 @@ _SAE J2534 Standard_
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
 * [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
-* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Novo Bus Analyzer is a fork of BUSMASTER. BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
+* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - a fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).
 * [bootCAN](https://github.com/friessssss/bootCAN) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.
 
 
 ### TUI Tools
 
-* [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal
+* [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal.
 
 
 ### Python Tools
