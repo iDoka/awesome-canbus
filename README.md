@@ -210,7 +210,7 @@ _SAE J2534 Standard_
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
 * [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
-* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - a fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).
+* [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).
 * [bootCAN](https://github.com/friessssss/bootCAN) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.
 
 
@@ -464,10 +464,11 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 
 ## Footnotes
-
+<!--lint disable double-link-->
 1. Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
 2. The another awesome list :arrow_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) :arrow_backward: also might be useful.
 3. Also might be useful [this curated list](https://github.com/iDoka/awesome-linbus) of awesome tools and resources for LIN bus reverse engineering, LIN hardware development and debugging.
+<!--lint enable double-link-->
 
 <!--
 ## Tags
