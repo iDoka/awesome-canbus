@@ -454,7 +454,9 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 ### Hardware related tools
 
 * [CAN Bus Bit Timing Calculator](https://www.kvaser.com/support/calculators/bit-timing-calculator/) - Online tool for obsolete SJA1000 and MCP2510 (probably it works for MCP2515).
+* [Bit Timing Calculator for CAN FD](https://kvaser.com/support/calculators/can-fd-bit-timing-calculator/) - Online tool to calculate detailed bit timing parameters for general CAN FD devices.
 * [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
+* [STMG431 FDCAN SOLVER](https://phryniszak.github.io/stm32g-fdcan/) - Online tool to calculate bit timing parameters for STM32G4 (likely compatible with STM32G0).
 
 ---
 
