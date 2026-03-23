@@ -267,7 +267,7 @@ _SAE J2534 Standard_
 * [Qt CAN Bus](https://doc.qt.io/qt-5/qtcanbus-backends.html) - A multiplatform C++ plugin based library with support for various CAN Devices (SocketCAN, Sys Tec, PEAK, Virtual).
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
 * [iso15765-canbus](https://github.com/devcoons/iso15765-canbus) -  Implementation of ISO15765-2 in C.
-
+* [CanKit](https://github.com/pkuyo/CanKit) - Cross-platform C#/.NET CAN communication library with a unified API across multiple CAN adapters.
 
 ### Examples
 
