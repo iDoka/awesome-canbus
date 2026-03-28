@@ -238,6 +238,7 @@ _SAE J2534 Standard_
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 * [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by `python-can`.
 * [py4can](https://github.com/SikkandarSulaiman/py4can) - Python utility to send and receive CAN messages through CANalyzer.
+- [ReleaseRun](https://releaserun.com/tools/requirements-txt-health/) - Browser-based requirements.txt health checker. Scans Python dependencies for EOL packages and known CVEs — no install needed.
 
 
 ### CAN-over-IP
