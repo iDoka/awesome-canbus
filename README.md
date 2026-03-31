@@ -441,6 +441,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [beaglebone_black_socketcan](https://github.com/BlueAndi/beaglebone_black_socketcan) - How to get access to the CAN bus on a BeagleBone Black via socketcan interface.
 * [rpi-can-logger](https://github.com/JonnoFTW/rpi-can-logger) - Project to log CAN bus data from a PiCAN2 and a GPS module.
 * [CANoPi](https://github.com/SushiBits/CANoPi) - CAN interface for Raspberry Pi Zero.
+* [AutoPi](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II/CAN bus device for vehicle telematics and diagnostics.
 
 
 ### Others HW
