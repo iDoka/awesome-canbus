@@ -449,6 +449,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Microchip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Driver](https://github.com/rkollataj/mcba_usb) - Linux kernel driver for Microchip CAN BUS Analyzer Tool.
 * [BB-to-STM32](https://github.com/mvollrath/canbus_bbone_stm32) - LED sync between BeagleBone Black and STM32F4 Discovery Board.
 * [elm327_clone](https://github.com/darkspr1te/elm327_clone) - ELM327 firmware for pic18f25k80 chip from china clone OBD2.
+* [Rinho Smart IoT](https://rinho.com.ar/en/productos/smart-iot) - ESP32-based GPS device with native CAN Bus interface for direct J1939/FMS/OBD-II vehicle data acquisition, programmable event engine with CAN-triggered rules, and WiFi/LTE cloud connectivity.
 
 
 ### Hardware related tools
