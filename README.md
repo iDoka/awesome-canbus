@@ -217,6 +217,7 @@ _SAE J2534 Standard_
 ### TUI Tools
 
 * [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal.
+* [canscope](https://github.com/OlegShishlyannikov/canscope.git) - CAN bus inspection and reverse-engineering tool.
 
 
 ### Python Tools
