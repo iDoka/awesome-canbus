@@ -269,7 +269,7 @@ _SAE J2534 Standard_
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
 * [iso15765-canbus](https://github.com/devcoons/iso15765-canbus) -  Implementation of ISO15765-2 in C.
 * [CanKit](https://github.com/pkuyo/CanKit) - Cross-platform C#/.NET CAN communication library with a unified API across multiple CAN adapters.
-* [CANvenient](https://canopenterm.de/canvenient) - an abstraction layer for multiple CAN APIs on Windows and Linux.
+* [CANvenient](https://canopenterm.de/canvenient) - An abstraction layer for multiple CAN APIs on Windows and Linux.
 
 ### Examples
 
