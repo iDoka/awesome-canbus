@@ -172,7 +172,7 @@ _SAE J2534 Standard_
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org).
-
+* [CANopenTerm](https://canopenterm.de) - Tool for developing, testing and analyzing CANopen CC & CAN CC networks and devices
 
 ### Linux related
 
@@ -269,6 +269,7 @@ _SAE J2534 Standard_
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
 * [iso15765-canbus](https://github.com/devcoons/iso15765-canbus) -  Implementation of ISO15765-2 in C.
 * [CanKit](https://github.com/pkuyo/CanKit) - Cross-platform C#/.NET CAN communication library with a unified API across multiple CAN adapters.
+* [CANvenient](https://canopenterm.de/canvenient) - An abstraction layer for multiple CAN APIs on Windows and Linux.
 
 ### Examples
 
@@ -310,7 +311,7 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 <!--lint enable double-link-->
 * [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
 * [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - Util for convert dbc (canbus) to cpp(cplusplus) function.
-
+* [codb2json](https://canopenterm.de/codb2json) - CANopen Profile data base (codb) to JSON converter
 
 ### DBC only
 
