@@ -46,7 +46,8 @@ https://github.com/nmfta-repo/pretty_j1939
 https://github.com/LittleBlondeDevil/TruckDevil
 https://github.com/juergenH87/python-can-j1939
 https://github.com/DanielMartensson/Open-SAE-J1939
-https://github.com/ZacharyWalsh57/JCanalog
+https://github.com/malachi-iot/j1939
+*
 https://github.com/brandonros/j2534-tcp
 https://github.com/MEAT-Inc/SharpWrap2534
 https://github.com/roffe/gocanflasher
@@ -54,6 +55,7 @@ https://github.com/mwkpe/cantools
 https://github.com/rbei-etas/busmaster
 https://github.com/AleksandarFilipov/signalbroker-server
 https://github.com/Hive13/CANiBUS/
+https://github.com/CANopenTerm/CANopenTerm
 https://github.com/linux-can/can-utils
 https://github.com/linux-can/can-utils/blob/master/can-j1939-install-kernel-module.md
 https://github.com/norly/elmcan
@@ -81,6 +83,11 @@ https://github.com/dschanoeh/Kayak
 https://github.com/facontidavide/PlotJuggler
 https://github.com/PlotJuggler/plotjuggler-CAN-dbs
 https://github.com/DanielMartensson/OpenSourceLogger
+https://github.com/ecubus/EcuBus-Pro
+https://github.com/reymor/novobusanalyzer
+https://github.com/friessssss/bootCAN
+https://github.com/miwagner/socanui
+https://github.com/OlegShishlyannikov/canscope.git
 https://github.com/cantools/cantools
 https://github.com/hardbyte/python-can
 https://github.com/jmscslgroup/strym
@@ -110,6 +117,8 @@ https://github.com/tonton81/IMCTFD
 https://github.com/linklayer/go-socketcan
 https://github.com/pschichtel/JavaCAN
 https://github.com/devcoons/iso15765-canbus
+https://github.com/pkuyo/CanKit
+https://github.com/CANopenTerm/CANvenient
 https://github.com/craigpeacock/CAN-Examples
 https://github.com/zhanglongqi/socketcan-demo
 https://github.com/commaai/cabana
@@ -139,6 +148,7 @@ https://github.com/collin80/FlexCAN_Library
 https://github.com/ObdDiag-Net/allpro
 https://github.com/arturlangner/Open-OBD2-datalogger
 https://github.com/596142041/CANBootloader-Qt
+https://github.com/Alia5/PiCCANTE
 https://github.com/commaai/panda
 https://github.com/adamczykpiotr/STM32duino_CAN_Library
 https://github.com/moonglow/pcan_pro_x
@@ -203,7 +213,6 @@ https://github.com/mintynet/esp32-slcan
 https://github.com/Pacerino/TWAI_SLCAN
 https://github.com/mintynet/esp32-slcan
 https://github.com/miwagner/ESP32-Arduino-CAN
-https://github.com/collin80/ESP32RET
 https://github.com/PhilippFux/ESP32_CAN_Interface
 https://github.com/vigoballak/esp32_canbus_gateway
 https://github.com/neg2led/esp32-cantroller
@@ -211,7 +220,13 @@ https://github.com/scipioni/esp32-canbus-logger
 https://github.com/Cellgalvano/ESP32_CANViewer
 https://github.com/nopnop2002/esp-idf-can2http
 https://github.com/limiter121/esp32-obd2-emulator
+https://github.com/collin80/ESP32RET
+https://github.com/MagnusThome/ESP32S3RET
+https://github.com/MagnusThome/esp32_obd2
+https://github.com/MagnusThome/ESP32_OBD2_Emulator
 https://github.com/MagnusThome/RejsaCAN-ESP32
+https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test
+https://github.com/okhsunrog/can_wizard
 https://github.com/BlueAndi/beaglebone_black_socketcan
 https://github.com/JonnoFTW/rpi-can-logger
 https://github.com/SushiBits/CANoPi
