@@ -311,7 +311,7 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 <!--lint enable double-link-->
 * [dbcc](https://github.com/howerj/dbcc) - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
 * [convert_dbc_to_cpp_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) - Util for convert dbc (canbus) to cpp(cplusplus) function.
-* [codb2json](https://canopenterm.de/codb2json) - CANopen Profile data base (codb) to JSON converter
+
 
 ### DBC only
 
