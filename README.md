@@ -66,6 +66,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
   * [Arduino](#arduino)
   * [Espressif Systems (ESP8266, ESP32)](#espressif-systems-esp8266-esp32)
   * [SBC](#sbc)
+  * [IP cores for ASIC and FPGA](#ip-cores-for-asic-and-fpga)
   * [Others HW](#others-hw)
   * [Hardware related tools](#hardware-related-tools)
 
@@ -443,6 +444,13 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [beaglebone_black_socketcan](https://github.com/BlueAndi/beaglebone_black_socketcan) - How to get access to the CAN bus on a BeagleBone Black via socketcan interface.
 * [rpi-can-logger](https://github.com/JonnoFTW/rpi-can-logger) - Project to log CAN bus data from a PiCAN2 and a GPS module.
 * [CANoPi](https://github.com/SushiBits/CANoPi) - CAN interface for Raspberry Pi Zero.
+
+
+### IP cores for ASIC and FPGA
+
+* [CAN](https://opencores.org/projects/can) - [VHDL] IP core for classic CAN Protocol Controller.
+* [CTU-CAN-FD](https://github.com/Logic-Design-Services/CTU-CAN-FD) - [VHDL] CAN FD IP Core (ISO 11898-1:2015 compliant).
+
 
 
 ### Others HW
