@@ -448,8 +448,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### IP cores for ASIC and FPGA
 
-* [CAN](https://opencores.org/projects/can) - [VHDL] IP core for classic CAN Protocol Controller.
-* [CTU-CAN-FD](https://github.com/Logic-Design-Services/CTU-CAN-FD) - [VHDL] CAN FD IP Core (ISO 11898-1:2015 compliant).
+* [CAN](https://opencores.org/projects/can) - IP core for classic CAN Protocol Controller (VHDL).
+* [CTU-CAN-FD](https://github.com/Logic-Design-Services/CTU-CAN-FD) - CAN FD IP Core, ISO 11898-1:2015 compliant (VHDL).
 
 
 
