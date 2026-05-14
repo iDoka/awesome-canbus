@@ -117,6 +117,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an SQLite database.
+* [EV Fault Code Dataset](https://github.com/easyaitech/evfaultcode-dataset) - Public CSV/JSON reference for OBD-II diagnostic trouble codes, EV-specific DTCs, and Tesla alert codes.
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
 
@@ -533,5 +534,4 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 #python
 #automotive-security
 -->
-
 
