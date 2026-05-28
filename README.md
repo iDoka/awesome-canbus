@@ -102,6 +102,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 
 ## Test equipment and simulators
 
+* [canerrsim](https://github.com/zeljkoavramovic/canerrsim) - CAN bus error frame simulator and monitor for testing error conditions using SocketCAN.
 * [ECU-simulator](https://github.com/lbenthins/ecu-simulator) - Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols.
 * [ELM327-emulator](https://github.com/Ircama/ELM327-emulator) - ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation.
 
