@@ -117,10 +117,10 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
-* [OBDium](https://github.com/obdium) - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an SQLite database.
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
+* [OBDium](https://github.com/provrb/obdium) - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
 
 ### UDS
 
