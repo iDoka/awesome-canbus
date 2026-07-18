@@ -172,6 +172,7 @@ _SAE J2534 Standard_
 ### Common
 
 * 🔝[cantools](https://github.com/mwkpe/cantools) - Collection of CLI tools for the CAN bus network.
+* [CANLOVER](https://canlover.ddns.net/) - A free Software tool to analyze, simulate and test data in CAN Bus. Some Features required paid license.
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) - CAN Device Vehicle Research Server (OpenGarages.org).
