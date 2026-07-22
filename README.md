@@ -121,6 +121,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles.
 * [pyvit](https://github.com/linklayer/pyvit) - Python Vehicle Interface Toolkit _(archived)_.
 * [OBDium](https://github.com/provrb/obdium) - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
+* [OBD2HQ](https://obd2hq.com/en/resources) - Multilingual OBD2 diagnostic resources with open DTC, warning-light, first-check checklist datasets, and an embeddable lookup widget.
 
 ### UDS
 
