@@ -351,6 +351,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 #### STM32
 
+* 🔝[ESP32-CAN-X2](https://github.com/autosportlabs/ESP32-CAN-X2/) - ESP32-S3 N8R8 automotive grade development board with dual CAN bus support + Arduino + circuit python examples
 * 🔝[panda](https://github.com/commaai/panda) - It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).
 * 🔝[STM32duino_CAN_Library](https://github.com/adamczykpiotr/STM32duino_CAN_Library) - CanBus library for STM32F103 running on STM32duino.
 * 🔝[pcan_pro_x](https://github.com/moonglow/pcan_pro_x) - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
