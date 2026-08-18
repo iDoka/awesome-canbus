@@ -115,6 +115,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [DDT4All](https://github.com/cedricp/ddt4all) - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) - ELM327 based vehicle's CAN bus sniffer.
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) - Arduino OBD library with asynchronous data requesting.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 * [CAN-Shark](https://github.com/quantyle/CAN-Shark) - Working with OBD PIDs from Arduino + MCP2515 shield.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars.
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an SQLite database.
