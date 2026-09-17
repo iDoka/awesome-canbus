@@ -471,6 +471,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [Bit Timing Calculator for CAN FD](https://kvaser.com/support/calculators/can-fd-bit-timing-calculator/) - Online tool to calculate detailed bit timing parameters for general CAN FD devices.
 * [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 * [STMG431 FDCAN SOLVER](https://phryniszak.github.io/stm32g-fdcan/) - Online tool to calculate bit timing parameters for STM32G4 (likely compatible with STM32G0).
+* [ICBOMS CAN Transceiver Sourcing & Specs](https://icboms.com/category/integrated-circuits) - Parametric search, datasheet specs, and BOM procurement for automotive and industrial CAN, CAN FD, and LIN transceivers.
 
 ---
 
