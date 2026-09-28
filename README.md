@@ -262,6 +262,7 @@ _SAE J2534 Standard_
 * [canqv](https://github.com/kurt-vd/canqv) - Quick CAN frame inspection using CAN_RAW.
 * [Candle.NET](https://github.com/elliotwoods/Candle.NET) - .NET wrapper for the Candle API for candlelight CAN bus gateways/analysers (e.g. CANable, CANtact, etc).
 * [canSerializer](https://github.com/zainahm3d/canSerializer) - Lib for serializing and deserializing CAN frames for transmission over a non CAN transport layer (Can be used to transport CAN frames over UART, SPI, etc).
+* [can-bus-lab-lite](https://github.com/numbpill3d/can-bus-lab-lite) - MCP2515 bench starter + candump parser.
 
 
 ### Libraries
