@@ -210,6 +210,7 @@ _SAE J2534 Standard_
 * [CANcool](https://github.com/MHS-Elektronik/CANcool) - CAN bus Analyser and Simulation Software with CAN-FD support.
 * [Kayak](https://github.com/dschanoeh/Kayak) - Java-based CAN traffic GUI analysis tool _(archived)_.
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
+* [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [PlotJuggler::CAN-dbs](https://github.com/PlotJuggler/plotjuggler-CAN-dbs) - Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.
 * [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) - Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.
 * [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
