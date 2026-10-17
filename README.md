@@ -391,6 +391,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
 * [pcan_cantact](https://github.com/moonglow/pcan_cantact) - XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.
 * [kvaser_cantact](https://github.com/moonglow/kvaser_cantact) - Xvaser LL v2 firmware for CANtact/CANable or any other similar boards based on STM32F042.
+* [LinUSBConverter (uLC)](https://github.com/uCAN-LIN/LinUSBConverter) - Open-source, optically isolated USB to LIN 2.1 master/slave/monitor dongle (STM32F042) with an SLCAN-style protocol, works with slcand/SocketCAN.
 
 
 ### Arduino
