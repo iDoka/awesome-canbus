@@ -252,6 +252,7 @@ _SAE J2534 Standard_
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader.
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway.
+* [can-hub](https://github.com/can-hub-io/can-hub) - Encrypted CAN-over-IP hub: export SocketCAN buses from devices behind NAT and use them from anywhere.
 
 
 ### Other Utils
