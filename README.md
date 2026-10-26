@@ -216,6 +216,7 @@ _SAE J2534 Standard_
 * [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).
 * [bootCAN](https://github.com/friessssss/bootCAN) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.
 * [CANviz](https://github.com/Chanchaldhiman/CANviz) - Browser-based CAN bus analyzer with J1939 and CANopen CiA 301/402 passive decode. Installs via pip, no native app required. Works with almost any CAN harware including low cost ones.
+* [Canmetry](https://github.com/WanderZil/canmetry) - Browser-based CAN log viewer for BLF, ASC, CSV, MF4, and DBC, with local decoding and Graph, Trace, and DBC views. Also available as a [hosted edition](https://canmetry.com/).
 
 
 ### TUI Tools
