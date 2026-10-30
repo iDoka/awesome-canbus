@@ -154,6 +154,7 @@ _SAE J1939 Standard_
 * [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
 * [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939) - SAE J1939 protocol free to use for embedded systems or PC with CAN-bus.
 * [embr::j1939](https://github.com/malachi-iot/j1939) - Lean, portable J1939 library for embedded MCUs.
+* [dbcgen](https://github.com/mhmmdbdrhmd/dbcgen) - Generate DBC files for J1939 and ISOBUS (ISO 11783) from the published standard, optionally narrowed to a real machine using recorded traffic.
 
 ### J2534 Tools
 
@@ -440,6 +441,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [RejsaCAN-ESP32](https://github.com/MagnusThome/RejsaCAN-ESP32) - ESP32-S3 board with CAN interface.
 * [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) - Example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
 * [CAN-wizard](https://github.com/okhsunrog/can_wizard) - CAN bus sniffer on esp32/esp32-c3 + SN65HVD230. Is developed using ESP-IDF and implement serial control console.
+* [can-logger-esp32](https://github.com/mhmmdbdrhmd/can-logger-esp32) - Logs two CAN buses at once (ESP32 + two MCP2515) to an SD card on one clock, with per-bus DBC decoding and a live web dashboard.
 
 
 ### SBC
