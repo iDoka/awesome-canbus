@@ -98,7 +98,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
 * [CAN-RE-Tool](https://github.com/openvehicles/CAN-RE-Tool) - Reverse engineering tool for systems based on CAN bus communications.
 * 🔝[can-explorer](https://github.com/Tbruno25/can-explorer) - A CAN bus visualization tool to aid in reverse engineering.
-
+* 🔝[CANExplorer](https://github.com/AKJ7/CANExplorer) - Monitor, analyse, diagnose, simulate, test, (agentic) reverse engineer CAN, CAN FD and LIN buses — on Linux, Windows and macOS, with any adapter.
+  
 
 ## Test equipment and simulators
 
