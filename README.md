@@ -244,6 +244,7 @@ _SAE J2534 Standard_
 * [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 * [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by `python-can`.
 * [py4can](https://github.com/SikkandarSulaiman/py4can) - Python utility to send and receive CAN messages through CANalyzer.
+* [dbc-matrix-audit](https://github.com/autosar-skills/autosar-agent-skills) - Static DBC matrix auditor in pure standard-library Python: bit overlap, out-of-range signals, asymmetry, naming drift, GBK encoding, plus revision diff and frame decoding. Also cross-checks a DBC against AUTOSAR ARXML configuration.
 
 
 ### CAN-over-IP
