@@ -105,7 +105,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [canerrsim](https://github.com/zeljkoavramovic/canerrsim) - CAN bus error frame simulator and monitor for testing error conditions using SocketCAN.
 * [ECU-simulator](https://github.com/lbenthins/ecu-simulator) - Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols.
 * [ELM327-emulator](https://github.com/Ircama/ELM327-emulator) - ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation.
-
+* [elmulator](https://github.com/qadanm/elmulator) - Scriptable Bluetooth LE and TCP ELM327 adapter emulator with a CI test harness for OBD2 app developers (with an in-process BLE test double so apps can test their Bluetooth stack with no radio).
+* [CANopen Bench](https://github.com/NobseVomBerg/CANopen-Bench) - Web-based test bench and machine control for CANopen devices: scan, EDS-driven SDO access, YAML test cases, firmware download and a live trace that decodes SDO/PDO/EMCY. IXXAT, PCAN and Vector.
 
 
 ## Protocols
@@ -216,7 +217,9 @@ _SAE J2534 Standard_
 * [Novo Bus Analyzer](https://github.com/reymor/novobusanalyzer) - Fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).
 * [bootCAN](https://github.com/friessssss/bootCAN) - Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.
 * [CANviz](https://github.com/Chanchaldhiman/CANviz) - Browser-based CAN bus analyzer with J1939 and CANopen CiA 301/402 passive decode. Installs via pip, no native app required. Works with almost any CAN harware including low cost ones.
-* [Canmetry](https://github.com/WanderZil/canmetry) - Browser-based CAN log viewer for BLF, ASC, CSV, MF4, and DBC, with local decoding and Graph, Trace, and DBC views. Also available as a [hosted edition](https://canmetry.com/).
+* [Canmetry](https://github.com/WanderZil/canmetry) - Browser-based CAN log viewer for BLF, ASC, CSV, MF4, and DBC, with local decoding and Graph, Trace, and DBC views.
+* [cantraceviewer](https://github.com/tomrford/cantraceviewer) - Free, open-source and private web-based CAN log plotter for ASC, BLF, MF4 and TRC with DBC decoding.
+
 
 
 ### TUI Tools
@@ -246,13 +249,13 @@ _SAE J2534 Standard_
 * [PythonVectorXL](https://github.com/Prindl/PythonVectorXL) - Complete python ctypes wrapper lib for the Vector XL Driver Library. Contains the #define instructions, struct/union typdef instructions and function definitions (loads the DLL as well) of the 'vxlapi.h' _(Windows only)_. Inspired by `python-can`.
 * [py4can](https://github.com/SikkandarSulaiman/py4can) - Python utility to send and receive CAN messages through CANalyzer.
 
-
 ### CAN-over-IP
 
 * [cannelloni](https://github.com/mguentner/cannelloni) - SocketCAN over Ethernet tunnel.
 * [tincan](https://github.com/mwkpe/tincan) - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) - TCP CAN reader.
 * [canny](https://github.com/m10k/canny) - Simple CAN-over-IP gateway.
+* [can-hub](https://github.com/can-hub-io/can-hub) - Encrypted CAN-over-IP hub: export SocketCAN buses from devices behind NAT and use them from anywhere.
 
 
 ### Other Utils
@@ -333,6 +336,7 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 * [VectorDbcChecker](https://github.com/Golyshkin/VectorDbcChecker) - Vector DBC Checker a Python GUI application for checking DBC files for messages duplication, missed network nodes, signals overlap in message, etc.
 * [pydbc](https://github.com/Sauci/pydbc) - AST generator for dbc format.
 * [pydbc](https://github.com/christoph2/pydbc) - Process vehicle network descriptions (CAN .dbc files).
+* [dbc-matrix-audit](https://github.com/autosar-skills/autosar-agent-skills) - Static DBC matrix auditor in pure standard-library Python: bit overlap, out-of-range signals, asymmetry, naming drift, GBK encoding, plus revision diff and frame decoding. Also cross-checks a DBC against AUTOSAR ARXML configuration.
 
 
 ## Hardware
