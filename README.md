@@ -220,6 +220,7 @@ _SAE J2534 Standard_
 * [BUSMASTER-NG](https://github.com/teoCLMR/busmaster-ng) - Maintained fork of BUSMASTER for Windows 7–11: CAN and LIN monitoring, logging, replay and node simulation, with direct DBC loading.
 * [Canmetry](https://github.com/WanderZil/canmetry) - Browser-based CAN log viewer for BLF, ASC, CSV, MF4, and DBC, with local decoding and Graph, Trace, and DBC views.
 * [cantraceviewer](https://github.com/tomrford/cantraceviewer) - Free, open-source and private web-based CAN log plotter for ASC, BLF, MF4 and TRC with DBC decoding.
+* [NexusCAN](https://github.com/kadirtunc/NexusCAN) - Rust Based (Tauri), Cross-Platform Open Source Modern CAN Bus Analyzer with MCP. DBC and KCD file supported, UDS, ISO-TP, OBD-II, Reverse Engineering, Plotting, Live Simulation and more. 
 
 
 
