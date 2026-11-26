@@ -98,6 +98,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-canbus
 * [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
 * [CAN-RE-Tool](https://github.com/openvehicles/CAN-RE-Tool) - Reverse engineering tool for systems based on CAN bus communications.
 * 🔝[can-explorer](https://github.com/Tbruno25/can-explorer) - A CAN bus visualization tool to aid in reverse engineering.
+* [CAN bus reverse engineering skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills) - Claude Code skills to reverse engineer CAN signals into DBC files using python-can interfaces (e.g. the [CANsub](https://www.csselectronics.com/products/can-fd-usb-interface-ethernet-cansub-2)).
 
 
 ## Test equipment and simulators
@@ -155,6 +156,7 @@ _SAE J1939 Standard_
 * [python-can-j1939](https://github.com/juergenH87/python-can-j1939) - Package provides SAE J1939 support for Python developers.
 * [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939) - SAE J1939 protocol free to use for embedded systems or PC with CAN-bus.
 * [embr::j1939](https://github.com/malachi-iot/j1939) - Lean, portable J1939 library for embedded MCUs.
+* [J1939 PGN Converter](https://www.csselectronics.com/pages/j1939-pgn-conversion-tool) - Free online tool to convert 29-bit CAN IDs to J1939 PGNs (with PGN names) and back.
 
 ### J2534 Tools
 
@@ -300,9 +302,10 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
-* [DBC File Explained](https://www.csselectronics.com/screen/page/can-dbc-file-database-intro/language/en) - A Simple Intro to DCB file format.
+* [DBC File Explained](https://www.csselectronics.com/pages/can-dbc-file-database-intro) - A Simple Intro to DBC file format.
 * [J1939 and DBC introduction](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/) - An Introduction to J1939 and DBC files.
 * 🔝[cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker (a tool developed to view raw CAN data; one use for this is creating and editing CAN Dictionaries (DBC files)).
+* [DBC Editor](https://www.csselectronics.com/pages/dbc-editor-can-bus-database) - Free online DBC editor (incl. J1939, OBD2 and multiplexing) that runs locally in the browser, also available offline.
 
 #### KCD
 
@@ -327,7 +330,6 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 
 * [Vector DBC](https://bitbucket.org/tobylorenz/vector_dbc) - Library to access CAN Databases (aka CANdb, aka DBC files) from Vector Informatik.
 * [dbcppp](https://github.com/xR3b0rn/dbcppp) - C/C++ DBC file parser/tool.
-* [can_decoder](https://github.com/CSS-Electronics/can_decoder) - API module for decoding raw CAN bus data to physical values using a DBC CAN database.
 * [CANdb from GENIVI](https://github.com/GENIVI/CANdb) - Library for parsing DBC - CAN bus database description formats.
 * [dbc-parser](https://github.com/msalau/dbc-parser) - A Flex/Bison/Lemon parser/scanner for DBC files.
 * [Vector CANdb++ DBC file parser](https://github.com/kdschlosser/vector_dbc) - Modified version of the dbc file parser of eerimoq.
